@@ -446,7 +446,7 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-logo="https://i.imgur.com/4ESi2La.png" group-title="News",NHK World Premium
 https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="General",Panamericana TV
-https://cdnhd.iblups.com/hls/ptv5.m3u8
+https://live-evg20.tv360.bitel.com.pe/bitel/Panamericana-UDP_abr/bitel/Panamericana-udp_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="PokemonKidsTVJapanese.jp" tvg-logo="https://i.imgur.com/SwheroL.jpg" group-title="Animation;Kids",Pokemon Kids TV Japanese
 https://ythls.armelin.one/channel/UCH0JJtRn2syic5xxavMKQ4Q.m3u8
 #EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Entertainment",RCN Mas
