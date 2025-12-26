@@ -217,37 +217,7 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/74
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/33
 #EXTINF:-1,tvg logo="Latino | Exitosa
 https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/video.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/
-clubxyz/teleclub/blob/main/BEN10.png?raw=true" group-title="24_7",Latino | Ben 10
-http://tv.teleclub.xyz/club/server_2/24_7/ben10/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/BOBSPONJA.png?raw=true" group-title="24_7",Latino | Bob Esponja
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/6254598f5083f800076d8563livestitch/2977920/playlist.m3u8?terminate=false&sid=9dc98dba-dd49-11f0-a8af-42ebf0a57f62&deviceDNT=0&deviceLat=-4.920000076293945&deviceLon=-80.68000030517578&deviceModel=web&deviceVersion=143.0.0&includeExtendedEvents=true&appName=web&deviceId=31f10bf4-f2c6-49d5-91a4-5e2e59bbe6fb&appVersion=9.18.0-32296d47c9882754e360f1b28a33027c54cbad16&deviceType=web&deviceMake=chrome&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImZkY2MwZjdmLWI4NzQtNDE3OC05NDRjLTIyYzUxZGY5MzVhNiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI5ZGM5OGRiYS1kZDQ5LTExZjAtYThhZi00MmViZjBhNTdmNjIiLCJjbGllbnRJUCI6IjIwMDE6MTM4ODozNWEyOjI3Njo4MWRjOmI2NmQ6YzRhZDoxZjgwIiwiY2l0eSI6IjExIERlIEVuZXJvIiwicG9zdGFsQ29kZSI6IjIwMTAzIiwiY291bnRyeSI6IlBFIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6LTQuOTIwMDAwMDc2MjkzOTQ1LCJkZXZpY2VMb24iOi04MC42ODAwMDAzMDUxNzU3OCwicHJlZmVycmVkTGFuZ3VhZ2UiOiJlcyIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTQzLjAuMCIsImRldmljZU1ha2UiOiJjaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiOS4xOC4wLTMyMjk2ZDQ3Yzk4ODI3NTRlMzYwZjFiMjhhMzMwMjdjNTRjYmFkMTYiLCJjbGllbnRJRCI6IjMxZjEwYmY0LWYyYzYtNDlkNS05MWE0LTVlMmU1OWJiZTZmYiIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0xpbWEiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9LCJzdGl0Y2hlckhsc05nVmxsIjp7ImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nVm9kIjp7ImVuYWJsZWQiOnRydWV9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiIzMWYxMGJmNC1mMmM2LTQ5ZDUtOTFhNC01ZTJlNTliYmU2ZmIiLCJmd1ZjSUQyQ29wcGEiOiIzMWYxMGJmNC1mMmM2LTQ5ZDUtOTFhNC01ZTJlNTliYmU2ZmIiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjMxZjEwYmY0LWYyYzYtNDlkNS05MWE0LTVlMmU1OWJiZTZmYiIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMTYsMTAwMTUsMTAwMjAsMTAwMjEsMTAwMDAsMTAwMDksMTAwMTMsMTAwMTQifX0sImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpWRTpNekZtTVRCaVpqUXRaakpqTmkwME9XUTFMVGt4WVRRdE5XVXlaVFU1WW1KbE5tWmkiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzY2MjgzMjY5LCJpYXQiOjE3NjYxOTY4NjksImp0aSI6IjM5MzU0YTJiLTk0YzUtNDFkMy04YWYyLTM3N2Q3NjYwNWY0NCJ9.VliudVnE-CRIgamzyHZ8NYlFI3qXXw7coTrGrueH0Fk&paln=AQzzBGQE9fjUIl2vXZE3NWKl34dnXNdmgb4XoSAjwoyCyql8jCedYJgn3MJtv4TY24kwO5bT8A8STqBngGHVcFi9mEjhYmGku3gn4XtBenAOpFkKnkcgL1ffuFoJ32GkUH1z8n_EwdVKrcgUKSnb3_J4N5ctKeXQHvLjV5k705aDTUxK4rqclI2UbEb_f2Juo1G7ztKqCDi87BcNGa4WSs_ZQJbgvLi-MLJovk4y1epWIH0hhTpF1UYhUxeJekGss0uKSOY3kycP3zxqrAJhMqf2ufOCIZ-2iYLnykCUZtYAUF9TbOhcyFjQjuufAJuDG9F37erlvu3_6A8g4VifmNjVp_k1YO_zTTmpN0l8xfBro2ZfBRliE4Wj52BnDqTbzu3X_4SGYkWTTCROkHfjx_ckw2YF60FiF1KJN7YjDj1_icKowlm_8fFhKtDLtI2uCFTTjXYEEY_TyQQsYy8tvBdsLvNIiuUiRfP4Vt-xlTfnOXxfdca6UOMz33l1vYQ7lWaTiikD1uph7XLqX6b_u1t1wnKOZMCtDcB9SNx5BgrrZxkPYzmIoR8IniwCeo3OkCr8L20-ZnlWvi5-ZltdXDym5civrPjgdePyFbE-52zHn-BGqapA3Mrz1WcF9oWa08VcQ3FikwkswZJRKhlhP2Gkm2BlW18Xlb-HCfVwMJC3bv_JRvYYzn8bJaebWEdz2Hi7gMUk-9yERMnbBzcpXDPHzRNJ0o5EXCeAzaPcvEXOmCxiPoyMy5drT-I-PuyD53mjSWTfGInRgZWv5ATodw8XSFt66S_F5h-0rY4cP521jZ8thKgBkPSE9CXYCOrFchbnBGfTjjtxTyzHvDGUjKIkB1Gd4DfHRpNJP8dwT7XRnHR7IeotvMEx7vJ8Yi1oHaJ64mR1MHwXgRSA4Kg3V9jgUQDVx3-TYcI7754PUZkNl4SV4seX6IBA8Bss8a3Lh8ZOU_gD6l45CDgiEE0BA28LzpLmTh9oqlh9PqHYTZUE6WibPetIDLMhAco42XzvOOVdGrOhiKTBiNbKw5Rqa9aIi6aOkZccpgshQ0kpmBvbbd4WnArYH2wuU5xfGJbIB1s97yU2rOo1nXPmzyVBhSsLP0PfRJ20tbZNKfAqT7sknrnZ0jAT2RyYIgXc6lYsaNHDeHgpEG6_GhhvLuQI6kOZYXr35C_qy9UZa_DXOvfo1_ua2ElQpMQLAs8ZXjBZN7fNfrG-oQd3zQKK82IMi_YxgyNwrJfq1iwL&CMCD=mtp%3D20900%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22c7c0803c-6f35-434a-a8e8-71d4bd403cc5%22
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/CASOCERRAD.png?raw=true" group-title="24_7",Latino | Caso Cerrado
-http://tv.teleclub.xyz/club/server_2/24_7/casocerrado/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/PLUCHE.png?raw=true" group-title="24_7",Latino | Chapulin Colorado
-http://tv.teleclub.xyz/club/server_2/24_7/chapulincolorado/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/CHESPI.png?raw=true" group-title="24_7",Latino | Chespirito
-http://tv.teleclub.xyz/club/server_2/24_7/chespirito/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/ROAD.png?raw=true" group-title="24_7",Latino | Correcaminos
-http://tv.teleclub.xyz/club/server_2/24_7/correcaminos/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/DINO.png?raw=true" group-title="24_7",Latino | Dinosaurios
-http://tv.teleclub.xyz/club/server_2/24_7/dinosaurios/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/DRAGON.png?raw=true" group-title="24_7",Latino | Dragon Ball Super
-http://tv.teleclub.xyz/club/server_2/24_7/dragonballsuper/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/RAP.png?raw=true" group-title="24_7",Latino | El príncipe del Rap
-http://tv.teleclub.xyz/club/server_2/24_7/elprincipedelrap/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/PLUCHE.png?raw=true" group-title="24_7",Latino | Familia Peluche
-http://tv.teleclub.xyz/club/server_2/24_7/familiapeluche/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/LOSPICAPIEDRAS.png?raw=true" group-title="24_7",Latino | Los Picapiedras
-http://tv.teleclub.xyz/club/server_2/24_7/lospicapiedras/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/SIMPSONS.png?raw=true" group-title="24_7",Latino | Los Simpsons
-http://tv.teleclub.xyz/club/server_2/24_7/lossimpsons/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/PADRINOS.png?raw=true" group-title="24_7",Latino | Padrinos Mágicos
-http://tv.teleclub.xyz/club/server_2/24_7/padrinosmagicos/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/PITUFOS.png?raw=true" group-title="24_7",Latino | Pitufos
-http://tv.teleclub.xyz/club/server_2/24_7/pitufos/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/SOUTHPARK.png?raw=true" group-title="24_7",Latino | South Park
-http://tv.teleclub.xyz/club/server_2/24_7/southpark/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/clrospn.png?raw=true" group-title="Deportes",Latino | Claro Sports
 http://tv.teleclub.xyz/club/server_1/deportes/clarosports/index.m3u8
 #EXTINF:-1,tvg logo="Latino | TruTV
@@ -5456,9 +5426,11 @@ https://cyyroro04xrqr.pradoi.com/hls2/01/03248/nictw7y0bjs1_,n,h,.urlset/master.
 
 https://r63hfpdmodtc.pradoi.com:443/hls2/01/03820/yngnahbpu4ye_,n,h,.urlset/index-f2-v1-a1.m3u8?t=fRKQx3lKJ4qsaJAwI02aWdoMQqhzTC07xKlV75LeU8Y&s=1727933324&e=129600&f=19103495&srv=7npihg0ee2yuu&i=0.0&sp=500&p1=7npihg0ee2yuu&p2=7npihg0ee2yuu&asn=6147
 
-#EXTINF:-57,group-title="Pelis 1" type="película" Dragon Ball Super: Broly (2019)
+#EXTINF:-57,group-title="Pelis 1" type="película" Dragon Ball La batalla de los DIOSES 
+https://dl.dropboxusercontent.com/scl/fi/h84pkqmr30yqhonaq6zi3/Drag-n-Ball-Super-La-Batalla-De-Los-Dioses-HD-En-Espa-ol-Latino-_dragonball-720P_HD.mp4?rlkey=713ftg9vuvyzblmelp06osuhg&st=wbifte7k&dl=0
 
-https://m8lb9i2jsuhyh.cdn-jupiter.com:443/hls2/01/03530/uez25bti1n68_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=zzp5qWnEuvd63xM2tqk93VdgHzIlJAJD1lWFeXBejVs&s=1727845958&e=129600&f=17653707&srv=exdnn5ovyhzo&i=0.4&sp=500&p1=exdnn5ovyhzo&p2=exdnn5ovyhzo&asn=6147
+#EXTINF:-57,group-title="Pelis 1" type="película" Dragon Ball Super: Broly (2019)
+https://dl.dropboxusercontent.com/scl/fi/4xlysi9lvbtkhjv6on3pb/Dragon-Ball-Super-Broly-_-Pel-cula-Completa-en-Espa-ol-Latino-720P_HD.mp4?rlkey=67bmf322zz719ckw7xclm117k&st=wfwyev2m&dl=0
 
 #EXTINF:-58,group-title="Pelis 1" type="película" Los Jóvenes Titanes – Misión Tokio (2006)
 
