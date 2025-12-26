@@ -5,6 +5,12 @@
 https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/bitel/America-udp_720p/chunks.m3u8
 #EXTINF:-1 xui-id="217" tvg-id="" tvg-name="Latino |America TV HD" tvg-logo="http://192.168.80.50:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dRCduHkKTUb9N_lxkpPN8o01Upcv0uy6H6umP1kbtoyVQ.png" group-title="NACIONALES",America TV HD
 https://prepublish.f.qaotic.net/a07/americahls-100056/lista de reproducción_720p.m3u8
+#EXTINF:-1,tvg logo="Latino | Top Latino 
+https://live-evg11.tv360.bitel.com.pe/bitel/toplatino/chunks.m3u8
+#EXTINF:-1,tvg logo="Latino | CREOKIDsSRT
+https://live-evg18.tv360.bitel.com.pe/bitel/CreoKidsSRT/chunks.m3u8
+#EXTINF:-1,tvg logo="Latino | Las estrellas 
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_3.m3u8
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/A%26E_HD.png/800px-A%26E_HD.png",Latino | A&E
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/20
 #EXTINF:-1,tvg-logo="https://caribtv.com/wp-content/uploads/2021/06/large_A3S.png.e881196bdffb09e902c09674c67498ea.png",Latino | A3S
@@ -194,7 +200,7 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1047
 #EXTINF:-1,tvg logo="Latino | Studio Universal
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/86
 #EXTINF:-1 xui-id="263" tvg-id="" tvg-name="Latino |TV PERú" tvg-logo="http://192.168.80.50:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dQxuD3eEEBDK8UqDheA8ELZy0FlzI1swN4r-oga6Yk7aA.png" group-title="NACIONALES",TV PERú
-https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
+https://live-evg20.tv360.bitel.com.pe/bitel/TVPeru-UDP_abr/bitel/TVPeru-udp_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="TVPeruNoticias.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/512px-TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="News",Latino | TV Peru Noticias
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
 #EXTINF:-1 tvg-id="TVPeruInternacional.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV_Per%C3%BA_Internacional_2019_-_copia.png/512px-TV_Per%C3%BA_Internacional_2019_-_copia.png" group-title="General",Latino | TV Peru Internacional
