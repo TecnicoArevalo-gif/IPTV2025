@@ -1386,44 +1386,44 @@ http://ott-cdn.ucom.am/s66/index.m3u8
 
 #EXTINF:-1 group-title="Pelis 1" type=tvg-logo="https://image.tmdb.org/t/p/w500//8cdWjvZQUExUUTzyp4t6EDMubfO.jpg" group-title="Movies",Deadpool y Wolverine
 http://208.88.245.81/nuevo/deadpool.y.wolverine.2024.dual.mkv
-#EXTINF:-1 group-title="Pelis 1" type="" tvg-logo"" group-title="Movies",SHERK 1
+#EXTINF:-1 group-title="Pelis 1" type=tvg-logo"" group-title="Movies",SHERK 1
 https://dl.dropboxusercontent.com/scl/fi/hclh004fafzuwko3ujc1x/SHREK-1-720-LAT.mp4?rlkey=1nlajaf35s54hgln3vjzqhldj&dl=0
-#EXTINF:-1 group-title="Pelis 1" type=" tvg-logo"" group-title="Movies",SHERK 2
+#EXTINF:-1 group-title="Pelis 1" type=tvg-logo"" group-title="Movies",SHERK 2
 https://dl.dropboxusercontent.com/scl/fi/p8xx7j0csqto4pt64hf68/SHERK-2.avi?rlkey=i8qqwtvuv9p9sc9t629tejzan&dl=0
-#EXTINF:-1 group-title="Pelis 1" type="" tvg-logo"" group-title="Movies",SHERK LA PRIMERA NAVIDAD DE BURRO
+#EXTINF:-1 group-title="Pelis 1" type=tvg-logo"" group-title="Movies",SHERK LA PRIMERA NAVIDAD DE BURRO
 https://dl.dropboxusercontent.com/scl/fi/4atp7wf0vnu01cu1azgi4/Shrek-navidad.mkv?rlkey=arkz4hjf375rhg4xl46kj6s3b&st=lyqcw48l&dl=0
-#EXTINF:-1 group-title="Pelis 1" type="" tvg-logo"" group-title="Movies",EL EXTRAÑO MUNDO DE JACK (1993)
+#EXTINF:-1 group-title="Pelis 1" type=tvg-logo"" group-title="Movies",EL EXTRAÑO MUNDO DE JACK (1993)
 https://dl.dropboxusercontent.com//scl/fi/afasbt0493s2v6ejol30m/El.Extrano.Mundo.De.Jack.1993.1080P-Dual-Lat.mkv?rlkey=gpq79bqj09l8q58ad19rkm502&st=frjprcl7&dl=0
-#EXTINF :-65,group-title="Pelis 1" type=""tvg-logo"" group-title="Movies",EL REY LEON (2019)
+#EXTINF :-65,group-title="Pelis 1" type=tvg-logo"" group-title="Movies",EL REY LEON (2019)
 https://dl.dropboxusercontent.com/scl/fi/wor2hxfjrssj4wb5d7cxy/El-Rey-Leon-2019-720p.mp4?rlkey=ymog9k1vn477eklewa8u0cvsq&dl=0
-#EXTINF:-1 group-title="Pelis 1" type="" tvg-logo"https://images.justwatch.com/poster/93209249/s718/el-grinch.jpg" group-title="Movies",EL GRINCH 2000
+#EXTINF:-1 group-title="Pelis 1" type=tvg-logo"https://images.justwatch.com/poster/93209249/s718/el-grinch.jpg" group-title="Movies",EL GRINCH 2000
 https://dl.dropboxusercontent.com/scl/fi/gt4eh9nrmhofff5eoclwx/El-Grinch-1.mp4?rlkey=713fk6jrfoxaa7fykget9kpjq&st=ao9sfmkh&dl=0
-#EXTINF:-1 group-title="Pelis 1" type="" tvg-logo"https://images.justwatch.com/poster/336228226/s718/avatar-3.jpg" group-title="Movies",AVATAR FUEGO Y CENIZA
+#EXTINF:-1 group-title="Pelis 1" type=tvg-logo"https://images.justwatch.com/poster/336228226/s718/avatar-3.jpg" group-title="Movies",AVATAR FUEGO Y CENIZA
 https://dl.dropboxusercontent.com/scl/fi/ir31d7iei2r0oz61winmi/Avatar_-Fire-and-Ash-Parte-3-1.mp4?rlkey=d5jhghpgnoodh0gn8tsth1aht&st=8mkghfqr&dl=0
-#EXTINF:-1 group-title="Pelis 1" type="" tvg-logo"https://pbs.twimg.com/media/G4938dMWAAAexW0.jpg" group-title="Movies",FIVE NIGHTS AT FREEDDY 2
+#EXTINF:-1 group-title="Pelis 1" type=tvg-logo"https://pbs.twimg.com/media/G4938dMWAAAexW0.jpg" group-title="Movies",FIVE NIGHTS AT FREEDDY 2
 https://dl.dropboxusercontent.com/scl/fi/tbkvg0impqu6ha10bx2pi/Five-Nights-at-Freddy-s_-La-Pel-cula-2-Parte-2-1.mp4?rlkey=66khsrgksiq38vxzeoxnc3iiq&st=h6v6b9q9&dl=0
 #EXTVLCOPT:http-agente-de-usuario=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 group-title="Pelis 1" type="" tvg-logo"https://dx35vtwkllhj9.cloudfront.net/paramountpictures/the-spongebob-movie-search-for-squarepants-intl/images/regions/pe/tt.png" group-title="Movies",BOB SPONJA: EN BUSCA DE LOS PANTALONES CUADRADOS 
+#EXTINF:-1 group-title="Pelis 1" type=tvg-logo"https://dx35vtwkllhj9.cloudfront.net/paramountpictures/the-spongebob-movie-search-for-squarepants-intl/images/regions/pe/tt.png" group-title="Movies",BOB SPONJA: EN BUSCA DE LOS PANTALONES CUADRADOS 
 https://dl.dropboxusercontent.com/scl/fi/4u0lvdkcdu3dyitzy36kf/Bob-Esponja_-En-busca-de-los-pantalones-cuadrados-Parte-6-1.mp4?rlkey=nghgo19hkf7j29md6lr3b3xza&st=94cz6yj0&dl=0
-#EXTINF:-1 group-title="Pelis 1" type="" tvg-logo="http://cvr.iks.cc/cvr/vod/cinecam/s28eYemGh3mKXp.jpg" group-title="Movies",DEADPOOL y WOLVERINE
+#EXTINF:-1 group-title="Pelis 1" type=tvg-logo="http://cvr.iks.cc/cvr/vod/cinecam/s28eYemGh3mKXp.jpg" group-title="Movies",DEADPOOL y WOLVERINE
 http://cdnvod-1.iks.cc:4013/vodsd/wNn3CppS90BxvdY/cinecam/s28eYemGh3mKXp.mp4
 #EXTVLCOPT:http-agente-de-usuario=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-1 group-title="Pelis 1" type="" tvg-logo="https://image.tmdb.org/t/p/w500//8cdWjvZQUExUUTzyp4t6EDMubfO.jpg" group-title="Movies",Deadpool y Wolverine
+#EXTINF:-1 group-title="Pelis 1" type=tvg-logo="https://image.tmdb.org/t/p/w500//8cdWjvZQUExUUTzyp4t6EDMubfO.jpg" group-title="Movies",Deadpool y Wolverine
 https://spyderrock.com/cGh83509-d.mp4
 #EXTVLCOPT:http-agente-de-usuario=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-#EXTINF:-57,group-title="Pelis 1" type="" tvg-logo=" group-title="Movies",Dragon Ball La batalla de los DIOSES 
+#EXTINF:-57,group-title="Pelis 1" type=tvg-logo=" group-title="Movies",Dragon Ball La batalla de los DIOSES 
 https://dl.dropboxusercontent.com/scl/fi/h84pkqmr30yqhonaq6zi3/Drag-n-Ball-Super-La-Batalla-De-Los-Dioses-HD-En-Espa-ol-Latino-_dragonball-720P_HD.mp4?rlkey=713ftg9vuvyzblmelp06osuhg&st=wbifte7k&dl=0
-#EXTINF:-57,group-title="Pelis 1" type="" tvg-logo="" group-title="Movies",Dragon Ball Super: Broly (2019)
+#EXTINF:-57,group-title="Pelis 1" type=tvg-logo="" group-title="Movies",Dragon Ball Super: Broly (2019)
 https://dl.dropboxusercontent.com/scl/fi/4xlysi9lvbtkhjv6on3pb/Dragon-Ball-Super-Broly-_-Pel-cula-Completa-en-Espa-ol-Latino-720P_HD.mp4?rlkey=67bmf322zz719ckw7xclm117k&st=wfwyev2m&dl=0
-#EXTINF:-58,group-title="Pelis 1" type="" tvg-logo="" group-title="Movies",Los Jóvenes Titanes – Misión Tokio (2006)
+#EXTINF:-58,group-title="Pelis 1" type=tvg-logo="" group-title="Movies",Los Jóvenes Titanes – Misión Tokio (2006)
 https://dl.dropboxusercontent.com/scl/fi/0g86889jwp54vmlbmd235/Os-Jovens-Tit-s_-Miss-o-T-quio-1.mp4?rlkey=15vm0yzh1k4c0bq3d4uotxux0&st=4494pzes&dl=0
-#EXTINF:-1 group-title="Pelis 1" type="" tvg-logo" group-title="Movies",Dragon ball la Resurreccion de freezer
+#EXTINF:-1 group-title="Pelis 1" type=tvg-logo" group-title="Movies",Dragon ball la Resurreccion de freezer
 https://dl.dropboxusercontent.com/scl/fi/s6it23znzl75ij82b60gb/Dragon-Ball-Super_-La-Resurrecci-n-De-Freezer-Latino-Full-HD-720P_HD.mp4?rlkey=wb4wcwkakb8oqm058djpooqbb&st=cd1lk4e8&dl=0
-#EXTINF:-58,group-title="Pelis 1" type="" tvg-logo="https://image.tmdb.org/t/p/w500/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg" group-title="Movies",el hombre araña 1
+#EXTINF:-58,group-title="Pelis 1" type=tvg-logo="https://image.tmdb.org/t/p/w500/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg" group-title="Movies",el hombre araña 1
 https://dl.dropboxusercontent.com/scl/fi/00vi1vvocqbozsrcafbi2/El-hombre-ara-a-Parte-1-1.mp4?rlkey=7u142efgd3v72xznq1pwwygf6&st=elil8svj&dl=0
-#EXTINF:-58,group-title="Pelis 1" type="" tvg-logo="https://image.tmdb.org/t/p/w500/c3e9e18SSlvFd1cQaGmUj5tqL5P.jpg" group-title="Movies",el hombre araña 2
+#EXTINF:-58,group-title="Pelis 1" type=tvg-logo="https://image.tmdb.org/t/p/w500/c3e9e18SSlvFd1cQaGmUj5tqL5P.jpg" group-title="Movies",el hombre araña 2
 https://dl.dropboxusercontent.com/scl/fi/k7td172zhwfvcild0e0iy/El-hombre-ara-a-2-Parte-2-1.mp4?rlkey=3gmcr52pt7qek9sm2blwr91yw&st=xng9tuqh&dl=0
-#EXTINF:-58,group-title="Pelis 1" type="" tvg-logo="https://image.tmdb.org/t/p/w500/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg" group-title="Movies",el hombre araña 3
+#EXTINF:-58,group-title="Pelis 1" type=tvg-logo="https://image.tmdb.org/t/p/w500/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg" group-title="Movies",el hombre araña 3
 https://dl.dropboxusercontent.com/scl/fi/q042i5jumo7olvwzftc3j/El-hombre-ara-a-3-Parte-3-1.mp4?rlkey=n8srfcobhj47x2hchcbstt28y&st=e9vhsako&dl=0
 
 
