@@ -789,7 +789,8 @@ https://dl.dropboxusercontent.com/scl/fi/40dofdyhnglidh4ivl65v/Mufasa_-El-rey-le
 https://dl.dropboxusercontent.com/scl/fi/7bc89ly6hzsqais0icfkr/Zootopia-2-Parte-2-1.mp4?rlkey=fafjt4yn20dqroagc8t19qscj&st=j6z2yjtt&dl=0
 #EXTINF:-1 group-title="PELICULAS INFANTILES " type="PELICULAS INFANTILES" tvg-logo"https://images.justwatch.com/poster/97686306/s718/el-rey-leon.jpg",Rey leon 1
 https://dl.dropboxusercontent.com/scl/fi/zz14b558bax7fh5c8p392/El-rey-le-n-Parte-1-1.mp4?rlkey=wrcnltqdnylwedfhzreagkchf&st=hqjzpx0p&dl=0
-
+#EXTINF:-1 group-title="PELICULAS INFANTILES " type="PELICULAS INFANTILES" tvg-logo"",el zorro y el sabueso
+https://dl.dropboxusercontent.com/scl/fi/bvjd4vq7glcglepe86ohq/El-Zorro-y-el-Sabueso-1.mp4?rlkey=vxps5up5hnnrfir3dirpsqm84&st=ponmxegb&dl=0
 group-title="movies"
 #EXTM3U
 #EXTINF:-1 tvg-id="24HourFreeMovies.us" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movies",24 Hour Free Movies (720p)
@@ -1407,22 +1408,24 @@ https://dl.dropboxusercontent.com/scl/fi/4u0lvdkcdu3dyitzy36kf/Bob-Esponja_-En-b
 http://cdnvod-1.iks.cc:4013/vodsd/wNn3CppS90BxvdY/cinecam/s28eYemGh3mKXp.mp4
 #EXTINF:-1 tvg-id="" tvg-name="DEAPOLL Y WOLVERINE" tvg-logo="https://image.tmdb.org/t/p/w500//8cdWjvZQUExUUTzyp4t6EDMubfO.jpg" group-title="CINE",Deadpool y Wolverine
 https://spyderrock.com/cGh83509-d.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragón ball la batalla de los dioses" tvg-logo=" group-title="CINE",Dragon Ball La batalla de los DIOSES 
+#EXTINF:-1 tvg-id="" tvg-name="Dragón ball la batalla de los dioses" tvg-logo="" group-title="CINE",Dragon Ball La batalla de los DIOSES 
 https://dl.dropboxusercontent.com/scl/fi/h84pkqmr30yqhonaq6zi3/Drag-n-Ball-Super-La-Batalla-De-Los-Dioses-HD-En-Espa-ol-Latino-_dragonball-720P_HD.mp4?rlkey=713ftg9vuvyzblmelp06osuhg&st=wbifte7k&dl=0
-#EXTINF:-57,group-title="CINE"type=tvg-logo="" group-title="Movies",Dragon Ball Super: Broly (2019)
 #EXTINF:-1 tvg-id="" tvg-name="Dragon ball super: broly (2019)" tvg-logo="" group-title="CINE",Dragon ball super: broly (2019)
 https://dl.dropboxusercontent.com/scl/fi/4xlysi9lvbtkhjv6on3pb/Dragon-Ball-Super-Broly-_-Pel-cula-Completa-en-Espa-ol-Latino-720P_HD.mp4?rlkey=67bmf322zz719ckw7xclm117k&st=wfwyev2m&dl=0
 #EXTINF:-1 tvg-id="" tvg-name="Los jovenes Titanes - mision tokio" tvg-logo="" group-title="CINE",Los Jóvenes Titanes – Misión Tokio (2006)
 https://dl.dropboxusercontent.com/scl/fi/0g86889jwp54vmlbmd235/Os-Jovens-Tit-s_-Miss-o-T-quio-1.mp4?rlkey=15vm0yzh1k4c0bq3d4uotxux0&st=4494pzes&dl=0
-#EXTINF:-1 tvg-id="" tvg-name="Dragon ball la resurrección de freezer" tvg-logo" group-title="CINE",Dragon ball la Resurreccion de freezer
+#EXTINF:-1 tvg-id="" tvg-name="Dragon ball la resurrección de freezer" tvg-logo"" group-title="CINE",Dragon ball la Resurreccion de freezer
 https://dl.dropboxusercontent.com/scl/fi/s6it23znzl75ij82b60gb/Dragon-Ball-Super_-La-Resurrecci-n-De-Freezer-Latino-Full-HD-720P_HD.mp4?rlkey=wb4wcwkakb8oqm058djpooqbb&st=cd1lk4e8&dl=0
 #EXTINF:-1 tvg-id="" tvg-name="el hombre araña 1" tvg-logo="https://image.tmdb.org/t/p/w500/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg" group-title="CINE",el hombre araña 1
 https://dl.dropboxusercontent.com/scl/fi/00vi1vvocqbozsrcafbi2/El-hombre-ara-a-Parte-1-1.mp4?rlkey=7u142efgd3v72xznq1pwwygf6&st=elil8svj&dl=0
 #EXTINF:-1 tvg-id="" tvg-name="el hombre araña 2" tvg-logo="https://image.tmdb.org/t/p/w500/c3e9e18SSlvFd1cQaGmUj5tqL5P.jpg" group-title="CINE",el hombre araña 2
 https://dl.dropboxusercontent.com/scl/fi/k7td172zhwfvcild0e0iy/El-hombre-ara-a-2-Parte-2-1.mp4?rlkey=3gmcr52pt7qek9sm2blwr91yw&st=xng9tuqh&dl=0
-#EXTINF:-58,group-title="CINE"type=tvg-logo="https://image.tmdb.org/t/p/w500/qFmwhVUoUSXjkKRmca5yG#EXTINF:-1 tvg-id="" tvg-name="el hombre araña 3" tvg-logo="https://image.tmdb.org/t/p/w500/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg" group-title="CINE,el hombre araña 3
+#EXTINF:-1 tvg-id="" tvg-name="el hombre araña 3" tvg-logo="https://image.tmdb.org/t/p/w500/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg" group-title="CINE,el hombre araña 3
 https://dl.dropboxusercontent.com/scl/fi/q042i5jumo7olvwzftc3j/El-hombre-ara-a-3-Parte-3-1.mp4?rlkey=n8srfcobhj47x2hchcbstt28y&st=e9vhsako&dl=0
-
+#EXTINF:-1 tvg-id="" tvg-name="Megalodon 2" tvg-logo="" group-title="CINE,Megalodon 2
+https://dl.dropboxusercontent.com/scl/fi/swiwc3p93wfgw9vdfzatw/Megalod-n-2_-La-fosa-Parte-2-1.mp4?rlkey=1ytk6of35hyzmb0l38f9qhcch&st=fdcqnzb0&dl=0
+#EXTINF:-1 tvg-id="" tvg-name="Mounstro sueltos" tvg-logo="" group-title="CINE,Mounstros sueltos
+https://dl.dropboxusercontent.com/scl/fi/pwzujrdly117o8u1d99su/Scooby-Doo_-monstruos-sueltos-1.mp4?rlkey=on3ybhs84xj0ly6fpl2k0kvdk&st=gnnz2ld5&dl=0
 
 #EXTM3U
 
