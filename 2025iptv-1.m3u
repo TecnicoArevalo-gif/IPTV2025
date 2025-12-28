@@ -364,7 +364,7 @@ EXTINF:-1,tvg logo="https://img2.static-ottera.com/prod/oly/linear_channel/thumb
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8?&url=freetv.com&genre=Originales%20de%20FreeTV&us_privacy=1YNN&coppa=0&c_producer=horrorfy&c_lang=es&app_bundle=com.olympusat.FreeTV&app_name=FreeTV&app_store_url=https%3A%2F%2Fwww.freetv.com%2Fdevices&did=c35936c18ce642f986aa595a2ae9aea5&dnt=0&app_provider=ottera&did_type=sessionid&is_lat=0
 EXTINF:-1,tvg logo="https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_accion_1080x1080_02092024.jpg",Latino|FREE ACCION TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8?&url=freetv.com&genre=Originales%20de%20FreeTV&us_privacy=1YNN&coppa=0&c_producer=topcine&c_lang=es&app_bundle=com.olympusat.FreeTV&app_name=FreeTV&app_store_url=https%3A%2F%2Fwww.freetv.com%2Fdevices&did=c35936c18ce642f986aa595a2ae9aea5&dnt=0&app_provider=ottera&did_type=sessionid&is_lat=0
-#EXTINF:-1 tvg-id="ATV.co" tvg-logo="https://i.imgur.com/giPOGyi.png" group-title="General",ATV
+#EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General",ATV
 https://live-evg20.tv360.bitel.com.pe/bitel/Atv-UDP_abr/bitel/Atv-udp_720p/chunks.m3u8
 #EXTINF:-1 xui-id="362" tvg-id="" tvg-name="Latino | Atv+ HD" tvg-logo="http://192.168.80.50:80/images/xj7JYz0WF3xad6M0B2jDBpUDFBnnYOPgImNaRtWd3PIxWp6Rhjc0kAhnXD0CUzucMYQwM0WN2OgzQJLVEjpiog.jpg" group-title="NACIONALES",PE Atv+ HD
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
@@ -760,28 +760,17 @@ https://scontent.fpiu2-1.fna.fbcdn.net/v/t42.1790-2/10000000_327018276182643_409
 
 #EXTINF:-1 group-title="PELICULAS TERROR LATINO",[COLOR red]*---PELICULAS TERROR LATINO---* [/COLOR]
 http://streamex.mx
- 
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/_SpC74qbLg-k/TBj5_GJaE8I/AAAAAAAAA80/0XYD9p-2QN0/s1600/EL+CUARTO+CONTACTO.jpg",El Cuarto Contacto[/COLOR]
-https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!175&authkey=!AKXyRZbeVHorkbk&ithint=video%2cavi
- 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500//b33nnKl1GSFbao4l3fZDDqsMx0F.jpg",aliens romulus
- https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fago24%2FVer%20Alien-%20Romulus%20online%20HD%20-%20Cuevana%202.mp4
+#EXTINF:-1 group-title="PELICULAS TERROR LATINO " type="PELICULAS TERROR LATINO" tvg-logo"",MEGALODON 2
+https://dl.dropboxusercontent.com/scl/fi/swiwc3p93wfgw9vdfzatw/Megalod-n-2_-La-fosa-Parte-2-1.mp4?rlkey=1ytk6of35hyzmb0l38f9qhcch&st=fdcqnzb0&dl=0
+#EXTINF:-1 group-title="PELICULAS TERROR LATINO " type="PELICULAS TERROR LATINO" tvg-logo"",EL HOYO 2
+https://dl.dropboxusercontent.com/scl/fi/p7m2jjtijjnbhmsnh56gl/El-hoyo-2-Parte-2-1.mp4?rlkey=6v8xxvue0pwcvr0ur5nkj2y8v&st=mt57tygx&dl=0
+#EXTINF:-1 group-title="PELICULAS TERROR LATINO " type="PELICULAS TERROR LATINO" tvg-logo"",OUIJA EL ORIGEN DEL MAL
+https://dl.dropboxusercontent.com/scl/fi/y7m103razgutrgc8m4cyz/Ouija_-El-origen-del-mal-Parte-2-1.mp4?rlkey=rvub7hywub2bd74toejm9eprh&st=lbvutjvp&dl=0
 
-
-#EXTINF:-1 tvg-logo="https://moviefilms.com.uy/wp-content/uploads/2023/12/Imaginario.jpg", Imaginario (Juguete diabólico)
-https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20Imaginario-%20juguete%20diab%C3%B3lico%20online%20HD%20-%20Cuevana%202.mp4
- 
-
-#EXTINF:-1 tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/45298-186406-20240125044141.jpg",BAGHEAD (contacto con la muerte)
-https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fabr24%2FVer%20Baghead-%20Contacto%20Con%20La%20Muerte%20online%20HD%20-%20Cuevana%202.mp4
-
-
-#EXTINF:-1, group-title="PELICULAS LATINO" type="película" tvg-logo="https://verpelis.gratis/wp-content/uploads/2024/03/sDoXpaKZmrzCSJH63zZvQQ9A7VK-217x300.jpg",Robot salvaje 
-https://s28.gamovideo.com:444/fnap4gvxbznv3h2yugln36yoe5ggi4udjileeggjdh2hufrbn5avda6uhmyq/v.mp4
 
 #EXTINF:-1 group-title="PELICULAS INFANTILES",[COLOR red]*---PELICULAS INFANTILES---* [/COLOR]
 http://streamex.mx
- #EXTINF:-1 group-title="PELICULAS INFANTILES " type="PELICULAS INFANTILES" tvg-logo"https://images.justwatch.com/poster/326095284/s166/mufasa-el-rey-leon.avif",MUFASA EL REY LEON 
+#EXTINF:-1 group-title="PELICULAS INFANTILES " type="PELICULAS INFANTILES" tvg-logo"https://images.justwatch.com/poster/326095284/s166/mufasa-el-rey-leon.avif",MUFASA EL REY LEON 
 https://dl.dropboxusercontent.com/scl/fi/40dofdyhnglidh4ivl65v/Mufasa_-El-rey-le-n-1.mp4?rlkey=sw6yebm4831w1b581ktoqnohw&st=o2ba3fyv&dl=0
 #EXTINF:-1 group-title="PELICULAS INFANTILES " type="PELICULAS INFANTILES" tvg-logo"https://m.media-amazon.com/images/M/MV5BOWNmZGQ0OTktMDIyZS00YjJkLTg5MTEtZTk2NGM4NTM5MDE2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",ZOOTOPIA 2
 https://dl.dropboxusercontent.com/scl/fi/7bc89ly6hzsqais0icfkr/Zootopia-2-Parte-2-1.mp4?rlkey=fafjt4yn20dqroagc8t19qscj&st=j6z2yjtt&dl=0
@@ -789,8 +778,16 @@ https://dl.dropboxusercontent.com/scl/fi/7bc89ly6hzsqais0icfkr/Zootopia-2-Parte-
 https://dl.dropboxusercontent.com/scl/fi/zz14b558bax7fh5c8p392/El-rey-le-n-Parte-1-1.mp4?rlkey=wrcnltqdnylwedfhzreagkchf&st=hqjzpx0p&dl=0
 #EXTINF:-1 group-title="PELICULAS INFANTILES " type="PELICULAS INFANTILES" tvg-logo"",el zorro y el sabueso
 https://dl.dropboxusercontent.com/scl/fi/bvjd4vq7glcglepe86ohq/El-Zorro-y-el-Sabueso-1.mp4?rlkey=vxps5up5hnnrfir3dirpsqm84&st=ponmxegb&dl=0
-group-title="movies"
+#EXTINF:-1 group-title="PELICULAS INFANTILES " type="PELICULAS INFANTILES" tvg-logo"",Scooby doo monstruos sueltos
+https://dl.dropboxusercontent.com/scl/fi/pwzujrdly117o8u1d99su/Scooby-Doo_-monstruos-sueltos-1.mp4?rlkey=on3ybhs84xj0ly6fpl2k0kvdk&st=gnnz2ld5&dl=0
+#EXTINF:-1 group-title="PELICULAS INFANTILES " type="PELICULAS INFANTILES" tvg-logo"",EL REY LEON 2 el tesoro de simba
+https://dl.dropboxusercontent.com/scl/fi/pvksjtbyadnptlwz4g9ce/El-rey-le-n-2_-El-tesoro-de-Simba-Animaci-n-Parte-2-1.mp4?rlkey=jt6khuxefyvm4ul8x67rixwm1&st=4t9xt8fk&dl=0
+#EXTINF:-1 group-title="PELICULAS INFANTILES " type="PELICULAS INFANTILES" tvg-logo"",TARZAN 1
+https://dl.dropboxusercontent.com/scl/fi/u1455bvygdrn6q89dwuta/Tarz-n-1.mp4?rlkey=1fr6shyk4dinqtbf9whwe9xim&st=q7lavdua&dl=0
+
 #EXTM3U
+
+group-title="movies"
 #EXTINF:-1 tvg-id="24HourFreeMovies.us" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Movies",24 Hour Free Movies (720p)
 https://d1j2u714xk898n.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-24HourFreeMovies/145.m3u8
 #EXTINF:-1 tvg-id="Channel43.ru" tvg-logo="https://i.imgur.com/hiN166x.png" group-title="Movies",43 канал (Туапсе) (720p)
@@ -1388,6 +1385,8 @@ http://208.88.245.81/nuevo/deadpool.y.wolverine.2024.dual.mkv
 https://dl.dropboxusercontent.com/scl/fi/hclh004fafzuwko3ujc1x/SHREK-1-720-LAT.mp4?rlkey=1nlajaf35s54hgln3vjzqhldj&dl=0
 #EXTINF:-1 tvg-id="" tvg-name="SHERK 2" tvg-logo"" group-title="CINE",SHERK 2
 https://dl.dropboxusercontent.com/scl/fi/p8xx7j0csqto4pt64hf68/SHERK-2.avi?rlkey=i8qqwtvuv9p9sc9t629tejzan&dl=0
+#EXTINF:-1 tvg-id="" tvg-name="SHERK 2" tvg-logo"" group-title="CINE",JOHN RAMBO
+https://dl.dropboxusercontent.com/scl/fi/ixmeba2yp3jo9sno7o3oj/John-Rambo-Parte-5-1.mp4?rlkey=c0whadhratp7gly8pwd9w19ex&st=m33ces75&dl=0
 #EXTINF:-1 tvg-id="" tvg-name="SHERK LA PRIMERA NAVIDAD DE BURRO" tvg-logo"" group-title="CINE",SHERK LA PRIMERA NAVIDAD DE BURRO
 https://dl.dropboxusercontent.com/scl/fi/4atp7wf0vnu01cu1azgi4/Shrek-navidad.mkv?rlkey=arkz4hjf375rhg4xl46kj6s3b&st=lyqcw48l&dl=0
 #EXTINF:-1 tvg-id="" tvg-name="EL EXTRAÑO MUNDO DE JACK" tvg-logo"" group-title="CINE",EL EXTRAÑO MUNDO DE JACK (1993)
@@ -1420,13 +1419,11 @@ https://dl.dropboxusercontent.com/scl/fi/00vi1vvocqbozsrcafbi2/El-hombre-ara-a-P
 https://dl.dropboxusercontent.com/scl/fi/k7td172zhwfvcild0e0iy/El-hombre-ara-a-2-Parte-2-1.mp4?rlkey=3gmcr52pt7qek9sm2blwr91yw&st=xng9tuqh&dl=0
 #EXTINF:-1 tvg-id="" tvg-name="el hombre araña 3" tvg-logo="https://image.tmdb.org/t/p/w500/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg" group-title="CINE,el hombre araña 3
 https://dl.dropboxusercontent.com/scl/fi/q042i5jumo7olvwzftc3j/El-hombre-ara-a-3-Parte-3-1.mp4?rlkey=n8srfcobhj47x2hchcbstt28y&st=e9vhsako&dl=0
-#EXTINF:-1 tvg-id="" tvg-name="Megalodon 2" tvg-logo="" group-title="CINE,Megalodon 2
-https://dl.dropboxusercontent.com/scl/fi/swiwc3p93wfgw9vdfzatw/Megalod-n-2_-La-fosa-Parte-2-1.mp4?rlkey=1ytk6of35hyzmb0l38f9qhcch&st=fdcqnzb0&dl=0
-#EXTINF:-1 tvg-id="" tvg-name="Mounstro sueltos" tvg-logo="" group-title="CINE,Mounstros sueltos
-https://dl.dropboxusercontent.com/scl/fi/pwzujrdly117o8u1d99su/Scooby-Doo_-monstruos-sueltos-1.mp4?rlkey=on3ybhs84xj0ly6fpl2k0kvdk&st=gnnz2ld5&dl=0
+
+
 
 #EXTM3U
-
+#EXTINF:-1 group-title="PELICULAS NUEVAS ",[COLOR red]*---PELICULAS NUEVAS
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kP4380IsiyoQ1EIuJxR1AEIIDPX.jpg",Atena (2025)
 https://pomf2.lain.la/f/duegk7w9.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cqF7xuZWbBYXWHsp1I1H5PwujPs.jpg",High Ground (2025)
