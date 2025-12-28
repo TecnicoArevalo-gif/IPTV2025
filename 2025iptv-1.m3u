@@ -365,13 +365,11 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playli
 EXTINF:-1,tvg logo="https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_accion_1080x1080_02092024.jpg",Latino|FREE ACCION TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8?&url=freetv.com&genre=Originales%20de%20FreeTV&us_privacy=1YNN&coppa=0&c_producer=topcine&c_lang=es&app_bundle=com.olympusat.FreeTV&app_name=FreeTV&app_store_url=https%3A%2F%2Fwww.freetv.com%2Fdevices&did=c35936c18ce642f986aa595a2ae9aea5&dnt=0&app_provider=ottera&did_type=sessionid&is_lat=0
 #EXTINF:-1 tvg-id="ATV.co" tvg-logo="https://i.imgur.com/giPOGyi.png" group-title="General",ATV
-https://movil.ejeserver.com/live/verteve.m3u8
+https://live-evg20.tv360.bitel.com.pe/bitel/Atv-UDP_abr/bitel/Atv-udp_720p/chunks.m3u8
 #EXTINF:-1 xui-id="362" tvg-id="" tvg-name="Latino | Atv+ HD" tvg-logo="http://192.168.80.50:80/images/xj7JYz0WF3xad6M0B2jDBpUDFBnnYOPgImNaRtWd3PIxWp6Rhjc0kAhnXD0CUzucMYQwM0WN2OgzQJLVEjpiog.jpg" group-title="NACIONALES",PE Atv+ HD
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 xui-id="364" tvg-id="" tvg-name="Latino | ATV SUR HD" tvg-logo="http://192.168.80.50:80/images/xj7JYz0WF3xad6M0B2jDBpUDFBnnYOPgImNaRtWd3PIxWp6Rhjc0kAhnXD0CUzucdNa2VBnk60OLJqqjh0jDgg.jpg" group-title="NACIONALES",PE ATV SUR HD
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General",ATV
-https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="Entertainment",Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u4sw0pf.png" group-title="Infantil",Latino | Bitme
