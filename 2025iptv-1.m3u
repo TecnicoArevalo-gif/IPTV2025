@@ -1,15 +1,13 @@
 
 #EXTM3U
 
-#EXTINF:-1 xui-id="217" tvg-id="" tvg-name="Latino |America TV HD" tvg-logo="http://192.168.80.50:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dRCduHkKTUb9N_lxkpPN8o01Upcv0uy6H6umP1kbtoyVQ.png" group-title="NACIONALES",America TV HD
+#EXTINF:-1 xui-id="217" tvg-id="" tvg-name="Latino |America TV HD" tvg-logo="https://e7.pngegg.com/pngimages/148/627/png-clipart-america-television-television-channel-logo-america-tv-others-television-text.png" group-title="NACIONALES",America TV HD
 https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/bitel/America-udp_720p/chunks.m3u8
-#EXTINF:-1 xui-id="217" tvg-id="" tvg-name="Latino |America TV HD" tvg-logo="http://192.168.80.50:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dRCduHkKTUb9N_lxkpPN8o01Upcv0uy6H6umP1kbtoyVQ.png" group-title="NACIONALES",America TV HD
-https://prepublish.f.qaotic.net/a07/americahls-100056/lista de reproducción_720p.m3u8
-#EXTINF:-1,tvg logo="Latino | Top Latino 
+#EXTINF:-1,tvg logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_Top_Latino.png",Latino | Top Latino 
 https://live-evg11.tv360.bitel.com.pe/bitel/toplatino/chunks.m3u8
-#EXTINF:-1,tvg logo="Latino | CREOKIDsSRT
+#EXTINF:-1,tvg logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763744241135/5e085ec79f90_640_360.png",Latino | CREOKIDsSRT
 https://live-evg18.tv360.bitel.com.pe/bitel/CreoKidsSRT/chunks.m3u8
-#EXTINF:-1,tvg logo="Latino | Las estrellas 
+#EXTINF:-1,tvg logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",Latino | Las estrellas 
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_3.m3u8
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/A%26E_HD.png/800px-A%26E_HD.png",Latino | A&E
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/20
@@ -39,6 +37,9 @@ https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
 #EXTINF:-1,tvg logo=",Latino | Azteca 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
+
+#EXTM3U
+
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png",Pluto TV Novelas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_
 #EXTINF:-1 group-title="Niños y frikis" tvg-logo="https://fontmeme.com/images/Spongebob-TV-Series.png",Bob Esponja
@@ -83,6 +84,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f4f4b88157cf00075c22db/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1fada1-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=98b1a14f-8335-48c9-a8f3-2e1926d24a7e
 #EXTINF:-1 tvg-id="",Transformers TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/643683519b32b400094e0a40/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b215b54-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=abddc540-8919-4da1-b7b9-ffa5730e3bfb
+
+#EXTM3U
+
 #EXTINF:-1,tvg logo="https://i.pinimg.com/originals/45/4e/87/454e87bcc66e53184a76a06f6bfa1ca6.png",Latino | Cartoonito
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/52
 #EXTINF:-1,tvg logo="https://www.debate.com.mx/img/2016/08/22/2000px-canal_de_las_estrellas_logo.svg.png?__scale=c:transparent,w:640,h:640,t:3",Latino | Canal De Las Estrellas
@@ -221,8 +225,6 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/620
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/14
 #EXTINF:-1,tvg logo="Latino | Nat Geo
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/63
-#EXTINF:-1,tvg logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png",Latino | Nick
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/48
 #EXTINF:-1 xui-id="251" tvg-id="NICkLA" tvg-name="Latino | Nick Jr" tvg-logo="http://192.168.80.50:80/images/ayfdHaSGfQQ7HLxmvsjLeKmVYyiQI1nJEd93PLNFR39cELBBuy3WVvvTas82pTEqXN3Vcp-CLW3zzJukJR7_hg.png" group-title="INFANTILES",Nick Jr
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/45
 #EXTINF:-1,tvg logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png",Latino | Nicktoons
@@ -269,7 +271,6 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/74
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/33
 #EXTINF:-1,tvg logo="Latino | Exitosa
 https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/video.m3u8
-
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/clrospn.png?raw=true" group-title="Deportes",Latino | Claro Sports
 http://tv.teleclub.xyz/club/server_1/deportes/clarosports/index.m3u8
 #EXTINF:-1,tvg logo="Latino | TruTV
@@ -362,18 +363,23 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/625
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/624
 #EXTINF:-1,tvg logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Starz_Edge_2016.svg/1280px-Starz_Edge_2016.svg.png",Latino | Starz Edge
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1649
-#EXTINF:-1 logotipo de tvg="https://i.imgur.com/GmLDkty.jpg" título del grupo="24_7" , Latino | Terror 24/7
- http://tv.teleclub.xyz/envivo/24_7/TERROR_247/index.m3u8
+
+
+#EXTM3U
+
 EXTINF:-1,tvg logo="https://img2.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_terror_1080x1080_02092024.jpg",Latino|FREE TERROR TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8?&url=freetv.com&genre=Originales%20de%20FreeTV&us_privacy=1YNN&coppa=0&c_producer=horrorfy&c_lang=es&app_bundle=com.olympusat.FreeTV&app_name=FreeTV&app_store_url=https%3A%2F%2Fwww.freetv.com%2Fdevices&did=c35936c18ce642f986aa595a2ae9aea5&dnt=0&app_provider=ottera&did_type=sessionid&is_lat=0
 EXTINF:-1,tvg logo="https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_accion_1080x1080_02092024.jpg",Latino|FREE ACCION TV
+
+#EXTM3U
+
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8?&url=freetv.com&genre=Originales%20de%20FreeTV&us_privacy=1YNN&coppa=0&c_producer=topcine&c_lang=es&app_bundle=com.olympusat.FreeTV&app_name=FreeTV&app_store_url=https%3A%2F%2Fwww.freetv.com%2Fdevices&did=c35936c18ce642f986aa595a2ae9aea5&dnt=0&app_provider=ottera&did_type=sessionid&is_lat=0
 #EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General",ATV
 https://live-evg20.tv360.bitel.com.pe/bitel/Atv-UDP_abr/bitel/Atv-udp_720p/chunks.m3u8
 #EXTINF:-1 xui-id="362" tvg-id="" tvg-name="Latino | Atv+ HD" tvg-logo="http://192.168.80.50:80/images/xj7JYz0WF3xad6M0B2jDBpUDFBnnYOPgImNaRtWd3PIxWp6Rhjc0kAhnXD0CUzucMYQwM0WN2OgzQJLVEjpiog.jpg" group-title="NACIONALES",PE Atv+ HD
-https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
+https://live-evg20.tv360.bitel.com.pe/bitel/Atv+-UDP_abr/bitel/Atv+-udp_720p/chunks.m3u8
 #EXTINF:-1 xui-id="364" tvg-id="" tvg-name="Latino | ATV SUR HD" tvg-logo="http://192.168.80.50:80/images/xj7JYz0WF3xad6M0B2jDBpUDFBnnYOPgImNaRtWd3PIxWp6Rhjc0kAhnXD0CUzucdNa2VBnk60OLJqqjh0jDgg.jpg" group-title="NACIONALES",PE ATV SUR HD
-https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
+https://live-evg18.tv360.bitel.com.pe/bitel/atvsur_abr/bitel/atvsur_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="Entertainment",Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u4sw0pf.png" group-title="Infantil",Latino | Bitme
@@ -750,18 +756,20 @@ http://streamex.mx
 https://dl.dropboxusercontent.com/scl/fi/40dofdyhnglidh4ivl65v/Mufasa_-El-rey-le-n-1.mp4?rlkey=sw6yebm4831w1b581ktoqnohw&st=o2ba3fyv&dl=0
 #EXTINF:-1 group-title="PELICULAS INFANTILES " type="PELICULAS INFANTILES" tvg-logo"https://m.media-amazon.com/images/M/MV5BOWNmZGQ0OTktMDIyZS00YjJkLTg5MTEtZTk2NGM4NTM5MDE2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",ZOOTOPIA 2
 https://dl.dropboxusercontent.com/scl/fi/7bc89ly6hzsqais0icfkr/Zootopia-2-Parte-2-1.mp4?rlkey=fafjt4yn20dqroagc8t19qscj&st=j6z2yjtt&dl=0
-#EXTINF:-1 group-title="PELICULAS INFANTILES " type="PELICULAS INFANTILES" tvg-logo"https://images.justwatch.com/poster/97686306/s718/el-rey-leon.jpg",Rey leon 1
+#EXTINF:-1 group-title="PELICULAS INFANTILES " type="PELICULAS INFANTILES" tvg-logo"https://pictures.abebooks.com/isbn/9788416548019-us.jpg",Rey leon 1
 https://dl.dropboxusercontent.com/scl/fi/zz14b558bax7fh5c8p392/El-rey-le-n-Parte-1-1.mp4?rlkey=wrcnltqdnylwedfhzreagkchf&st=hqjzpx0p&dl=0
-#EXTINF:-1 group-title="PELICULAS INFANTILES " type="PELICULAS INFANTILES" tvg-logo"",el zorro y el sabueso
+#EXTINF:-1 group-title="PELICULAS INFANTILES " type="PELICULAS INFANTILES" tvg-logo"https://m.media-amazon.com/images/M/MV5BYWNlNjQzNGUtMjA2YS00ZWVlLWIyN2ItYjI5ZjFkZWRlYzRjXkEyXkFqcGc@._V1_.jpg",el zorro y el sabueso
 https://dl.dropboxusercontent.com/scl/fi/bvjd4vq7glcglepe86ohq/El-Zorro-y-el-Sabueso-1.mp4?rlkey=vxps5up5hnnrfir3dirpsqm84&st=ponmxegb&dl=0
-#EXTINF:-1 group-title="PELICULAS INFANTILES " type="PELICULAS INFANTILES" tvg-logo"",Scooby doo monstruos sueltos
+#EXTINF:-1 group-title="PELICULAS INFANTILES " type="PELICULAS INFANTILES" tvg-logo"https://m.media-amazon.com/images/M/MV5BMjEzNzk3NTE1Ml5BMl5BanBnXkFtZTYwODM1MTU3._V1_FMjpg_UX1000_.jpg",Scooby doo monstruos sueltos
 https://dl.dropboxusercontent.com/scl/fi/pwzujrdly117o8u1d99su/Scooby-Doo_-monstruos-sueltos-1.mp4?rlkey=on3ybhs84xj0ly6fpl2k0kvdk&st=gnnz2ld5&dl=0
-#EXTINF:-1 group-title="PELICULAS INFANTILES " type="PELICULAS INFANTILES" tvg-logo"",EL REY LEON 2 el tesoro de simba
+#EXTINF:-1 group-title="PELICULAS INFANTILES " type="PELICULAS INFANTILES" tvg-logo"https://es.web.img2.acsta.net/pictures/15/06/11/11/59/479737.jpg",EL REY LEON 2 el tesoro de simba
 https://dl.dropboxusercontent.com/scl/fi/pvksjtbyadnptlwz4g9ce/El-rey-le-n-2_-El-tesoro-de-Simba-Animaci-n-Parte-2-1.mp4?rlkey=jt6khuxefyvm4ul8x67rixwm1&st=4t9xt8fk&dl=0
-#EXTINF:-1 group-title="PELICULAS INFANTILES " type="PELICULAS INFANTILES" tvg-logo"",TARZAN 1
+#EXTINF:-1 group-title="PELICULAS INFANTILES " type="PELICULAS INFANTILES" tvg-logo"https://es.web.img3.acsta.net/pictures/14/03/17/11/47/596263.jpg",TARZAN 1
 https://dl.dropboxusercontent.com/scl/fi/u1455bvygdrn6q89dwuta/Tarz-n-1.mp4?rlkey=1fr6shyk4dinqtbf9whwe9xim&st=q7lavdua&dl=0
 #EXTINF:-1 group-title="PELICULAS INFANTILES " type="PELICULAS INFANTILES" tvg-logo"https://image.tmdb.org/t/p/w500/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg",El hombre araña 3
 https://dl.dropboxusercontent.com/scl/fi/q042i5jumo7olvwzftc3j/El-hombre-ara-a-3-Parte-3-1.mp4?rlkey=n8srfcobhj47x2hchcbstt28y&st=e9vhsako&dl=0
+#EXTINF:-1 group-title="PELICULAS INFANTILES " type="PELICULAS INFANTILES" tvg-logo"https://m.media-amazon.com/images/M/MV5BYmYyZjUzYjgtY2U1My00MTA4LTllNWEtNWU3ZThkOWRmMTY1XkEyXkFqcGc@._V1_.jpg",NETFLIX PLANKTON THE MOVIES
+https://dl.dropboxusercontent.com/scl/fi/7xp20479bz2pdexqr1htb/Plankton_-The-Movie-Parte-5-1.mp4?rlkey=v07bj6ph6ofecdq920ncpioyx&st=hhiu6hrt&dl=0
 
 #EXTM3U
 
