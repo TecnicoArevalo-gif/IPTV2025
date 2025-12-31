@@ -79,6 +79,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff4b9ccf938f8000779eb
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff608e60e2996000768c366/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Niños y Geek" tvg-logo="https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/colorLogoPNG.png",Pluto TV E-Sports
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="PlutoTVHorror.us@Austria",Pluto TV Horror
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f4f4b88157cf00075c22db/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1fada1-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=98b1a14f-8335-48c9-a8f3-2e1926d24a7e
+#EXTINF:-1 tvg-id="",Transformers TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/643683519b32b400094e0a40/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b215b54-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=abddc540-8919-4da1-b7b9-ffa5730e3bfb
 #EXTINF:-1,tvg logo="https://i.pinimg.com/originals/45/4e/87/454e87bcc66e53184a76a06f6bfa1ca6.png",Latino | Cartoonito
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/52
 #EXTINF:-1,tvg logo="https://www.debate.com.mx/img/2016/08/22/2000px-canal_de_las_estrellas_logo.svg.png?__scale=c:transparent,w:640,h:640,t:3",Latino | Canal De Las Estrellas
@@ -244,9 +248,9 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/86
 #EXTINF:-1 xui-id="263" tvg-id="" tvg-name="Latino |TV PERú" tvg-logo="http://192.168.80.50:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dQxuD3eEEBDK8UqDheA8ELZy0FlzI1swN4r-oga6Yk7aA.png" group-title="NACIONALES",TV PERú
 https://live-evg20.tv360.bitel.com.pe/bitel/TVPeru-UDP_abr/bitel/TVPeru-udp_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="TVPeruNoticias.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/512px-TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="News",Latino | TV Peru Noticias
-https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
+https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8
 #EXTINF:-1 tvg-id="TVPeruInternacional.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV_Per%C3%BA_Internacional_2019_-_copia.png/512px-TV_Per%C3%BA_Internacional_2019_-_copia.png" group-title="General",Latino | TV Peru Internacional
-https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
+https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c27.m3u8
 #EXTINF:-1,tvg logo="Latino | USA Network
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/31
 #EXTINF:-1,tvg logo="Latino | TNT Novelas
@@ -728,35 +732,7 @@ https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66
 
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fjun24%2FWatch%20Winnie%20the%20Pooh%20Blood%20and%20Honey%202024%20WEBDLSCR1080L4T%20mp4.mp4
 
-#EXTINF:-1, group-title="PELICULAS LATINO" type="película" tvg-logo="https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=600/cr/logo/69975f73-97e1-40b6-a919-0d937e1a9005.png",Dragón ball Daima Capitulo 1
 
-https://scontent.fpiu2-2.fna.fbcdn.net/v/t42.1790-2/463455492_8056732127765547_8415393591630857315_n.mp4?_nc_cat=111&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjM3NCwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjoyNjAyNTIzMzQ2NjI0MDI5fQ%3D%3D&_nc_e2o=2602523346624029&_nc_ohc=Sl_4nlMiw5kQ7kNvgFm8T2n&_nc_zt=28&_nc_rml=0&_nc_ht=scontent.fpiu2-2.fna&_nc_gid=A1DaXw3jfCRJpyTLqQEmYoG&oh=00_AYCczCn6zjo7xcJiLmkfiKPdEGTb98rpdX5-J_kurdJZSg&oe=6724DA5A
-
-#EXTINF:-1, group-title="PELICULAS LATINO" type="película" tvg-logo="https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=600/cr/logo/69975f73-97e1-40b6-a919-0d937e1a9005.png",Dragón ball Daima Capitulo 2
-https://scontent.fpiu2-1.fna.fbcdn.net/o1/v/t2/f2/m69/AQO5-CjwclZZFkgjW9NRbiOF7Io6w8_7eg-o8MwIsDu_SYyVfis5BngcZd5Xgm88s3uTYr2m85GU4zHl-OhW_axn.mp4?strext=1&_nc_cat=102&_nc_sid=8bf8fe&_nc_ht=scontent.fpiu2-1.fna.fbcdn.net&_nc_ohc=0xKqa4XgUd8Q7kNvgGA0e9i&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNjQwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6OTY5OTM2NjA0ODk1NTkxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=9-4&_nc_zt=28&_nc_rml=0&oh=00_AYBFJ2sgUO9w3_KKKEAQZQZ-xijQ_2_xUtlmjJwvRNMraQ&oe=6724C369
-
-
-#EXTINF:-1, group-title="PELICULAS LATINO" type="película" tvg-logo="https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=600/cr/logo/69975f73-97e1-40b6-a919-0d937e1a9005.png", Dragón ball Daima Capitulo 3 
-
-https://scontent.fpiu2-2.fna.fbcdn.net/o1/v/t2/f2/m69/AQMm1JVQ6lbUkCbf9X6wdJXCR_LTw_5m9tDE3eo8TZ9FY2IopsT1Jm4DzJXW4c-wxjXz1Y_V9WAuPpjCN5K5AqqY.mp4?strext=1&_nc_cat=109&_nc_sid=8bf8fe&_nc_ht=scontent.fpiu2-2.fna.fbcdn.net&_nc_ohc=Bcw-jXW3COIQ7kNvgGtl2YW&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNjQwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTIyMjQzNDUyODgxMDY3MSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=9-4&_nc_zt=28&_nc_rml=0&oh=00_AYBTnd0GPbrMSuveOnPkJ0S6zXx0h5H3m_wA1fp58etGNQ&oe=6724DBE8
-
-#EXTINF:-1, group-title="PELICULAS LATINO" type="película" tvg-logo="", saga de los Sayayin 
-https://scontent.fpiu2-1.fna.fbcdn.net/v/t42.1790-2/10000000_881017470601081_484659218879872590_n.mp4?_nc_cat=106&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjM5MCwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjo1MTg5NzYwMDA4MTY4ODZ9&_nc_e2o=518976000816886&_nc_ohc=vBK7F1Mz3EgQ7kNvgGxjrGg&_nc_zt=28&_nc_rml=0&_nc_ht=scontent.fpiu2-1.fna&_nc_gid=AJ615MaKXBSrZLafvlQ1d2H&oh=00_AYBmzJA-KE1TdQUbjHFN22s0xi7WpWJGd2f2g6gvXMKa8A&oe=671C0510
-
-#EXTINF:-1, group-title="PELICULAS LATINO" type="película" tvg-logo="", Saga de cell
-https://scontent.fpiu2-2.fna.fbcdn.net/v/t42.9040-2/10000000_477557533087502_8404619779813408768_n.mp4?_nc_cat=109&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjQ5MywicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjo0MTEzMDcwMDI4NDg4NzN9&_nc_e2o=411307002848873&_nc_ohc=GDNd9c4hpCYQ7kNvgHpUO7u&_nc_rml=0&_nc_ht=scontent.fpiu2-2.fna&_nc_gid=ABsNRBn1t7Q23UinkIJLAAf&oh=00_AYDapNKE-_1lAZ-Uwz0Ght0UtzjxBUzPNkRq8-MtUlqsgg&oe=670BC97B
-
-#EXTINF:-1, group-title="PELICULAS LATINO" type="película" tvg-logo="", Goku vs baby vegeta
-https://scontent.fpiu2-2.fna.fbcdn.net/v/t42.9040-2/10000000_858865214473341_785427176294973440_n.mp4?_nc_cat=109&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjMwMCwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjozMzkzNzcwNzAxMDcxNzB9&_nc_e2o=339377070107170&_nc_ohc=lEiDZAcINFYQ7kNvgHzzYD0&_nc_rml=0&_nc_ht=scontent.fpiu2-2.fna&_nc_gid=AOywCX1WIuJZn6UOABsfoMH&oh=00_AYANMj_zhMLFALZoWyGn94OdxVETJcO3hJejymaxGAUwiA&oe=670BE9D9
-
-#EXTINF:-1, group-title="PELICULAS LATINO" type="película" tvg-logo="", La resurrección de freezer 
-https://scontent.fpiu2-2.fna.fbcdn.net/v/t42.1790-2/10000000_1540913776676558_3880171224972208935_n.mp4?_nc_cat=107&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjYzNywicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjo1MjUyMDk3ODI1NzQ4MjN9&_nc_e2o=525209782574823&_nc_ohc=ZaQ2vsRtD1wQ7kNvgG6q5s9&_nc_rml=0&_nc_ht=scontent.fpiu2-2.fna&_nc_gid=AjVgah7lJIc4TWFubH7NyqP&oh=00_AYBOZzH-kaT0kw4aOTfOpsJ40JmS6CYh0I3twhRkkSVnWw&oe=670FEB26
-
-#EXTINF:-1, group-title="PELICULAS LATINO" type="película" tvg-logo="",La batalla de los dioses 
-https://scontent.fpiu2-1.fna.fbcdn.net/v/t42.1790-2/10000000_1800850417322775_8435421831721997537_n.mp4?_nc_cat=102&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjQ3MywicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjoxMDQzODYzNTEzOTUyMzI5fQ%3D%3D&_nc_e2o=1043863513952329&_nc_ohc=-Yyg0SUqy5MQ7kNvgHa_P5x&_nc_rml=0&_nc_ht=scontent.fpiu2-1.fna&_nc_gid=A-icGT70k3Pf20NuBLr62Pb&oh=00_AYBysF3L9Eb_2AGzuQRzPEs4SZzNLsdEGc0Nv0Tb3d6RyA&oe=670FBBF7
-
-#EXTINF:-1, group-title="PELICULAS LATINO" type="película" tvg-logo="",saga de mayin buu
-https://scontent.fpiu2-1.fna.fbcdn.net/v/t42.1790-2/10000000_327018276182643_4093726952838134986_n.mp4?_nc_cat=106&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjM3OCwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjozNjM1MjI0ODU4OTY4MjB9&_nc_e2o=363522485896820&_nc_ohc=ufzDEkhHI2IQ7kNvgEScooM&_nc_rml=0&_nc_ht=scontent.fpiu2-1.fna&_nc_gid=A2BDoSf9m7cDUO5d8En0BH0&oh=00_AYCMCn2T62d4aopiarHlqCMTPCLQotSBpZQMs4o4RpsJXw&oe=670FC5A1
 
 #EXTINF:-1 group-title="PELICULAS TERROR LATINO",[COLOR red]*---PELICULAS TERROR LATINO---* [/COLOR]
 http://streamex.mx
@@ -784,6 +760,8 @@ https://dl.dropboxusercontent.com/scl/fi/pwzujrdly117o8u1d99su/Scooby-Doo_-monst
 https://dl.dropboxusercontent.com/scl/fi/pvksjtbyadnptlwz4g9ce/El-rey-le-n-2_-El-tesoro-de-Simba-Animaci-n-Parte-2-1.mp4?rlkey=jt6khuxefyvm4ul8x67rixwm1&st=4t9xt8fk&dl=0
 #EXTINF:-1 group-title="PELICULAS INFANTILES " type="PELICULAS INFANTILES" tvg-logo"",TARZAN 1
 https://dl.dropboxusercontent.com/scl/fi/u1455bvygdrn6q89dwuta/Tarz-n-1.mp4?rlkey=1fr6shyk4dinqtbf9whwe9xim&st=q7lavdua&dl=0
+#EXTINF:-1 group-title="PELICULAS INFANTILES " type="PELICULAS INFANTILES" tvg-logo"https://image.tmdb.org/t/p/w500/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg",El hombre araña 3
+https://dl.dropboxusercontent.com/scl/fi/q042i5jumo7olvwzftc3j/El-hombre-ara-a-3-Parte-3-1.mp4?rlkey=n8srfcobhj47x2hchcbstt28y&st=e9vhsako&dl=0
 
 #EXTM3U
 
@@ -1417,8 +1395,7 @@ https://dl.dropboxusercontent.com/scl/fi/s6it23znzl75ij82b60gb/Dragon-Ball-Super
 https://dl.dropboxusercontent.com/scl/fi/00vi1vvocqbozsrcafbi2/El-hombre-ara-a-Parte-1-1.mp4?rlkey=7u142efgd3v72xznq1pwwygf6&st=elil8svj&dl=0
 #EXTINF:-1 tvg-id="" tvg-name="el hombre araña 2" tvg-logo="https://image.tmdb.org/t/p/w500/c3e9e18SSlvFd1cQaGmUj5tqL5P.jpg" group-title="CINE",el hombre araña 2
 https://dl.dropboxusercontent.com/scl/fi/k7td172zhwfvcild0e0iy/El-hombre-ara-a-2-Parte-2-1.mp4?rlkey=3gmcr52pt7qek9sm2blwr91yw&st=xng9tuqh&dl=0
-#EXTINF:-1 tvg-id="" tvg-name="el hombre araña 3" tvg-logo="https://image.tmdb.org/t/p/w500/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg" group-title="CINE,el hombre araña 3
-https://dl.dropboxusercontent.com/scl/fi/q042i5jumo7olvwzftc3j/El-hombre-ara-a-3-Parte-3-1.mp4?rlkey=n8srfcobhj47x2hchcbstt28y&st=e9vhsako&dl=0
+
 
 
 
