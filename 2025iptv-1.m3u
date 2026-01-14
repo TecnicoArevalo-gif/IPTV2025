@@ -3,11 +3,11 @@
 
 #EXTINF:-1 xui-id="217" tvg-id="" tvg-name="Latino |America TV HD" tvg-logo="https://e7.pngegg.com/pngimages/148/627/png-clipart-america-television-television-channel-logo-america-tv-others-television-text.png" group-title="NACIONALES",America TV HD
 https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/bitel/America-udp_720p/chunks.m3u8
-#EXTINF:-1,tvg logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_Top_Latino.png",Latino | Top Latino 
+#EXTINF:-1,tvg logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_Top_Latino.png" group-title="NACIONALES",Latino | Top Latino 
 https://live-evg11.tv360.bitel.com.pe/bitel/toplatino/chunks.m3u8
-#EXTINF:-1,tvg logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763744241135/5e085ec79f90_640_360.png",Latino | CREOKIDsSRT
+#EXTINF:-1,tvg logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763744241135/5e085ec79f90_640_360.png" group-title="NACIONALES",Latino | CREOKIDsSRT
 https://live-evg18.tv360.bitel.com.pe/bitel/CreoKidsSRT/chunks.m3u8
-#EXTINF:-1,tvg logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",Latino | Las estrellas 
+#EXTINF:-1,tvg logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="NACIONALES",Latino | Las estrellas 
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_3.m3u8
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/A%26E_HD.png/800px-A%26E_HD.png",Latino | A&E
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/20
@@ -748,7 +748,12 @@ https://dl.dropboxusercontent.com/scl/fi/swiwc3p93wfgw9vdfzatw/Megalod-n-2_-La-f
 https://dl.dropboxusercontent.com/scl/fi/p7m2jjtijjnbhmsnh56gl/El-hoyo-2-Parte-2-1.mp4?rlkey=6v8xxvue0pwcvr0ur5nkj2y8v&st=mt57tygx&dl=0
 #EXTINF:-1 group-title="PELICULAS TERROR LATINO " type="PELICULAS TERROR LATINO" tvg-logo"",OUIJA EL ORIGEN DEL MAL
 https://dl.dropboxusercontent.com/scl/fi/y7m103razgutrgc8m4cyz/Ouija_-El-origen-del-mal-Parte-2-1.mp4?rlkey=rvub7hywub2bd74toejm9eprh&st=lbvutjvp&dl=0
-
+#EXTINF:-1 group-title="PELICULAS TERROR LATINO " type="PELICULAS TERROR LATINO" tvg-logo"",Jason vs freddy 
+https://dl.dropboxusercontent.com/scl/fi/sje75yaqgv5zucf7atfr0/Freddy-vs.mp4?rlkey=axbjwg269lfx12lb2p8fy06es&st=ehs6o7tc&dl=0
+#EXTINF:-1 group-title="PELICULAS TERROR LATINO " type="PELICULAS TERROR LATINO" tvg-logo"",el infierno de jason
+https://dl.dropboxusercontent.com/scl/fi/41pw404jd0ntc89325hv9/El-infierno-de-Jason-Parte-9-1.mp4?rlkey=5xxdjmvdagn1zwdv4l4x00yow&st=qx3qkstw&dl=0
+#EXTINF:-1 group-title="PELICULAS TERROR LATINO " type="PELICULAS TERROR LATINO" tvg-logo"",Pesadilla de la calle del infierno
+https://dl.dropboxusercontent.com/scl/fi/ftqh7q9ovs1a60ph59t1a/Pesadilla-en-la-calle-del-infierno-7-Parte-7-1.mp4?rlkey=t5hkzuq685mg0012yl2z1gxia&st=mi15o4uv&dl=0
 
 #EXTINF:-1 group-title="PELICULAS INFANTILES",[COLOR red]*---PELICULAS INFANTILES---* [/COLOR]
 http://streamex.mx
@@ -1415,6 +1420,10 @@ https://dl.dropboxusercontent.com/scl/fi/4u0lvdkcdu3dyitzy36kf/Bob-Esponja_-En-b
 https://dl.dropboxusercontent.com/scl/fi/1vqol4qj1v5nzrdxv0w66/Al-rescate-de-Fondo-de-Bikini_-La-pel-cula-de-Arenita-Mejillas-Parte-4-1.mp4?rlkey=tn3aqkp0p9m4nxbc3ewcpbxsa&st=go8crqwl&dl=0
 #EXTINF:-1 tvg-id="" tvg-name="Bob Sponja un heroe al rescate" tvg-logo"" group-title="CINE",Bob Sponja un heroe al rescate 
 https://dl.dropboxusercontent.com/scl/fi/4kgppw7xolvmo2o5bb0pe/Bob-Esponja_-Un-h-roe-al-rescate-Parte-3-1.mp4?rlkey=q5o7crafxhxwfvpa377jn89t9&st=fod1mndh&dl=0
+#EXTINF:-1 tvg-id="" tvg-name="Bob Sponja La pelicula" tvg-logo"" group-title="CINE",Bob Sponja la pelicula
+https://dl.dropboxusercontent.com/scl/fi/dk8iaxzu5d2t0ni4hnq5q/Bob-Esponja_-La-pel-cula-Parte-1-1.mp4?rlkey=aurmpqj6j0uux48q16ev3y64e&st=9cenit26&dl=0
+#EXTINF:-1 tvg-id="" tvg-name="Bob Sponja Bob Sponja Un heroe Fuera del agua" tvg-logo"" group-title="CINE",Bob Sponja Un heroe Fuera del agua
+https://dl.dropboxusercontent.com/scl/fi/py4hgwlyxcxxa9myt2mtu/Bob-Esponja_-Un-h-roe-fuera-del-agua-Parte-2-1.mp4?rlkey=3vml3m5sdghx2f0aks2g1v52n&st=l72rq6nw&dl=0
 #EXTINF:-1 tvg-id="" tvg-name="DEAPOOL Y WOLVERINE" tvg-logo="http://cvr.iks.cc/cvr/vod/cinecam/s28eYemGh3mKXp.jpg" group-title="CINE",DEADPOOL y WOLVERINE
 http://cdnvod-1.iks.cc:4013/vodsd/wNn3CppS90BxvdY/cinecam/s28eYemGh3mKXp.mp4
 #EXTINF:-1 tvg-id="" tvg-name="DEAPOLL Y WOLVERINE" tvg-logo="https://image.tmdb.org/t/p/w500//8cdWjvZQUExUUTzyp4t6EDMubfO.jpg" group-title="CINE",Deadpool y Wolverine
