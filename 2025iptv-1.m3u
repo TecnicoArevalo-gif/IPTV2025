@@ -3,10 +3,24 @@
 
 #EXTINF:-1 xui-id="217" tvg-id="" tvg-name="Latino |America TV HD" tvg-logo="https://e7.pngegg.com/pngimages/148/627/png-clipart-america-television-television-channel-logo-america-tv-others-television-text.png" group-title="NACIONALES",America TV HD
 https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/bitel/America-udp_720p/chunks.m3u8
-#EXTINF:-1,tvg logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_Top_Latino.png" group-title="NACIONALES",Latino | Top Latino 
+#EXTINF:-1,tvg logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_Top_Latino.png"group-title="NACIONALES",Latino | Top Latino 
 https://live-evg11.tv360.bitel.com.pe/bitel/toplatino/chunks.m3u8
-#EXTINF:-1,tvg logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763744241135/5e085ec79f90_640_360.png" group-title="NACIONALES",Latino | CREOKIDsSRT
+#EXTINF:-1,tvg logo=""group-title="NACIONALES",Latino | kids tv para ñiños
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-espanol/7cf2e485-edd0-48bc-9e47-d77e91f67c98/2.m3u8
+#EXTINF:-1,tvg logo="https://a.jsrdn.com/hls/22882/pitufo-tv/thumbh_20240322_195114_270.jpg"group-title="NACIONALES",Latino | Los pitufos tv
+https://stream.ads.ottera.tv/cl/260115d5k5t8oq0vem1h0lkcv0/1280x720_3071200_0_f.m3u8?i=475_6611
+#EXTINF:-1,tvg logo=""group-title="NACIONALES",Latino | mi miedo canal
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mi-miedo-canal/48b6d876-506a-4490-a9eb-89fdc0e3326e/2.m3u8
+#EXTINF:-1,tvg logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/11/21/23/1763744241135/5e085ec79f90_640_360.png"group-title="NACIONALES",Latino | CREOKIDsSRT
 https://live-evg18.tv360.bitel.com.pe/bitel/CreoKidsSRT/chunks.m3u8
+#EXTINF:-1,tvg logo=""group-title="NACIONALES",Latino | GRITOS TV
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/gritos-tv-by-trinian/a4c7905d-0937-40f2-b0ed-f9a31a60119d/2.m3u8
+#EXTINF:-1,tvg logo=""group-title="NACIONALES",Latino | HIT Mexicanos
+https://d3s7x6kmqcnb6b.cloudfront.net/hls/573BXJA/3F13C2D5DEBB/m.m3u8
+#EXTINF:-1,tvg logo=""group-title="NACIONALES",Latino | Rockola tv
+https://d3s7x6kmqcnb6b.cloudfront.net/hls/EXYSDUQ/6BF095EB3851/m.m3u8
+#EXTINF:-1,tvg logo=""group-title="NACIONALES",Latino | Cartoon classics
+https://d3s7x6kmqcnb6b.cloudfront.net/hls/IGMRZRA/DB9A0DAA16BE/m.m3u8
 #EXTINF:-1,tvg logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="NACIONALES",Latino | Las estrellas 
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_3.m3u8
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/A%26E_HD.png/800px-A%26E_HD.png",Latino | A&E
