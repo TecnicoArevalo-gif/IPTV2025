@@ -1,10 +1,12 @@
 
 #EXTM3U
 
-#EXTINF:-1 xui-id="217" tvg-id="" tvg-name="Latino |America TV HD" tvg-logo="https://e7.pngegg.com/pngimages/148/627/png-clipart-america-television-television-channel-logo-america-tv-others-television-text.png" group-title="NACIONALES",America TV HD
+#EXTINF:-1 xui-id="217" tvg-id="" tvg-name="Latino |America TV HD" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647022587/1ba320c1d650_480_270.png" group-title="NACIONALES",America TV HD
 https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/bitel/America-udp_720p/chunks.m3u8
 #EXTINF:-1,tvg logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_Top_Latino.png"group-title="NACIONALES",Latino | Top Latino 
 https://live-evg11.tv360.bitel.com.pe/bitel/toplatino/chunks.m3u8
+#EXTINF:-1,tvg logo="" group-title="NACIONALES",Latino | Nova tv pura cumbia
+https://live-evg7.tv360.bitel.com.pe/bitel/NovaSRT/chunks.m3u8
 #EXTINF:-1,tvg logo=""group-title="NACIONALES",Latino | kids tv para ñiños
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-espanol/7cf2e485-edd0-48bc-9e47-d77e91f67c98/2.m3u8
 #EXTINF:-1,tvg logo="https://a.jsrdn.com/hls/22882/pitufo-tv/thumbh_20240322_195114_270.jpg"group-title="NACIONALES",Latino | Los pitufos tv
@@ -328,7 +330,7 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1649
 #EXTINF:-1,tvg logo="Latino | DAZN F1
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1650
 #EXTINF:-1 xui-id="246" tvg-id="FRLTDA" tvg-name="Latino |Latina HD" tvg-logo="http://192.168.80.50:80/images/ayfdHaSGfQQ7HLxmvsjLeKalayjl6eRHB24xT3TcN-Ibv1_Grfq6lcMcDdL8dTWOyz3HXZx9QvRxpozjAdsyAA.png" group-title="NACIONALES",Latina HD
-https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
+https://live-evg7.tv360.bitel.com.pe/bitel/latina_abr/bitel/latina_360p/chunks.m3u8
 #EXTINF:-1,tvg logo="Latino | Comedy Central
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/23
 #EXTINF:-1,tvg logo="Latino | De Pelicula
@@ -377,13 +379,9 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/625
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/624
 #EXTINF:-1,tvg logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Starz_Edge_2016.svg/1280px-Starz_Edge_2016.svg.png",Latino | Starz Edge
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1649
-
-
-#EXTM3U
-
-EXTINF:-1,tvg logo="https://img2.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_terror_1080x1080_02092024.jpg",Latino|FREE TERROR TV
+EXTINF:-1,tvg logo="https://img2.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_terror_1080x1080_02092024.jpg" group-title="NACIONALES",Latino|FREE TERROR TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8?&url=freetv.com&genre=Originales%20de%20FreeTV&us_privacy=1YNN&coppa=0&c_producer=horrorfy&c_lang=es&app_bundle=com.olympusat.FreeTV&app_name=FreeTV&app_store_url=https%3A%2F%2Fwww.freetv.com%2Fdevices&did=c35936c18ce642f986aa595a2ae9aea5&dnt=0&app_provider=ottera&did_type=sessionid&is_lat=0
-EXTINF:-1,tvg logo="https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_accion_1080x1080_02092024.jpg",Latino|FREE ACCION TV
+EXTINF:-1,tvg logo="https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_accion_1080x1080_02092024.jpg" group-title="NACIONALES",Latino|FREE ACCION TV
 
 #EXTM3U
 
@@ -778,6 +776,11 @@ https://dl.dropboxusercontent.com/scl/fi/sje75yaqgv5zucf7atfr0/Freddy-vs.mp4?rlk
 https://dl.dropboxusercontent.com/scl/fi/41pw404jd0ntc89325hv9/El-infierno-de-Jason-Parte-9-1.mp4?rlkey=5xxdjmvdagn1zwdv4l4x00yow&st=qx3qkstw&dl=0
 #EXTINF:-1 group-title="PELICULAS TERROR LATINO " type="PELICULAS TERROR LATINO" tvg-logo"",Pesadilla de la calle del infierno
 https://dl.dropboxusercontent.com/scl/fi/ftqh7q9ovs1a60ph59t1a/Pesadilla-en-la-calle-del-infierno-7-Parte-7-1.mp4?rlkey=t5hkzuq685mg0012yl2z1gxia&st=mi15o4uv&dl=0
+#EXTINF:-1 group-title="PELICULAS TERROR LATINO " type="PELICULAS TERROR LATINO" tvg-logo"",Anaconda 1
+https://dl.dropboxusercontent.com/scl/fi/1dgrdv9vr1l9fdgcgymrm/Anaconda-1.mp4?rlkey=6yl4je24w3n5kvujt94r2qenf&st=rd7yepgc&dl=0
+
+
+
 
 #EXTINF:-1 group-title="PELICULAS INFANTILES",[COLOR red]*---PELICULAS INFANTILES---* [/COLOR]
 http://streamex.mx
@@ -801,6 +804,10 @@ https://dl.dropboxusercontent.com/scl/fi/q042i5jumo7olvwzftc3j/El-hombre-ara-a-3
 https://dl.dropboxusercontent.com/scl/fi/7xp20479bz2pdexqr1htb/Plankton_-The-Movie-Parte-5-1.mp4?rlkey=v07bj6ph6ofecdq920ncpioyx&st=hhiu6hrt&dl=0
 #EXTINF:-1 group-title="PELICULAS INFANTILES " type="PELICULAS INFANTILES" tvg-logo"",Blancanieves y los 7 enanitos 
 https://dl.dropboxusercontent.com/scl/fi/2gow0qajdldoiddzhmjp6/Blancanieves-y-los-siete-enanitos-1.mp4?rlkey=l6orl89rnr5axodgu9s8dix3m&st=27akz3r7&dl=0
+#EXTINF:-1 group-title="PELICULAS INFANTILES " type="PELICULAS INFANTILES" tvg-logo"",La era del hielo 1
+https://dl.dropboxusercontent.com/scl/fi/vhbn20x95we3n3uwf0hzm/Ice-Age_-La-edad-de-hielo-Parte-1-1.mp4?rlkey=e1w1xdbnerhj8vujlkperfpqb&st=qtvf39fr&dl=0
+#EXTINF:-1 group-title="PELICULAS INFANTILES " type="PELICULAS INFANTILES" tvg-logo"",Spirit el caballo indomable (2002)
+https://dl.dropboxusercontent.com/scl/fi/lt53iz2epfo1o962jafgy/Spirit_-El-corcel-indomable-1.mp4?rlkey=cz9fe0ugu8uz5ch3jb5hv3f0n&st=liraw5pn&dl=0
 #EXTINF:-1 group-title="PELICULAS INFANTILES " type="PELICULAS INFANTILES" tvg-logo"",Rolie polie olie busqueda de los bebes (2003)
 https://dl.dropboxusercontent.com/scl/fi/58f3pypyir632dhw01p6b/Rolie-Polie-Olie_-La-Gran-B-squeda-de-los-Beb-s-2003-Pel-cula-Completa-en-Espa-ol-Latino-360P.mp4?rlkey=camexjo0wobdv9nq781e16xlm&st=q2nopel2&dl=0
 #EXTINF:-1 group-title="PELICULAS INFANTILES " type="PELICULAS INFANTILES" tvg-logo"",Barbie como rapunzel 
@@ -1438,6 +1445,10 @@ https://dl.dropboxusercontent.com//scl/fi/afasbt0493s2v6ejol30m/El.Extrano.Mundo
 https://dl.dropboxusercontent.com/scl/fi/wor2hxfjrssj4wb5d7cxy/El-Rey-Leon-2019-720p.mp4?rlkey=ymog9k1vn477eklewa8u0cvsq&dl=0
 #EXTINF:-1 tvg-id="" tvg-name="Jurassic word el renacer" tvg-logo"" group-title="CINE", Jurassic Word el renacer
 https://dl.dropboxusercontent.com/scl/fi/s52dmcoog5vn4zip6legy/Jurassic-World_-El-Renacer-Parte-4-1.mp4?rlkey=f3v53txrn6dvvocwvipnow9vv&st=t170pgup&dl=0
+#EXTINF:-1 tvg-id="" tvg-name="El botin" tvg-logo"" group-title="CINE",El botin
+https://dl.dropboxusercontent.com/scl/fi/pe70ol4fuzxmx6yhqmpre/El-bot-n-1.mp4?rlkey=1zdculoqs1aqlqwp205ikdxau&st=n8cdogsa&dl=0
+#EXTINF:-1 tvg-id="" tvg-name="Terminator la salvacion" tvg-logo"" group-title="CINE",Terminator la salvacion
+https://dl.dropboxusercontent.com/scl/fi/whazbhtxtkpf6stvhkezl/Terminator_-La-salvaci-n-Parte-4-1.mp4?rlkey=tfa2lpsedxhahu8cx0riwyns0&st=0wbrpqza&dl=0
 #EXTINF:-1 tvg-id="" tvg-name="EL GRINCH 2000" tvg-logo"https://images.justwatch.com/poster/93209249/s718/el-grinch.jpg" group-title="CINE",EL GRINCH 2000
 https://dl.dropboxusercontent.com/scl/fi/gt4eh9nrmhofff5eoclwx/El-Grinch-1.mp4?rlkey=713fk6jrfoxaa7fykget9kpjq&st=ao9sfmkh&dl=0
 #EXTINF:-1 tvg-id="" tvg-name="AVATAR FUEGO Y CENIZA" tvg-logo"https://images.justwatch.com/poster/336228226/s718/avatar-3.jpg" group-title="CINE",AVATAR FUEGO Y CENIZA
