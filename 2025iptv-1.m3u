@@ -11,16 +11,26 @@ https://live-evg7.tv360.bitel.com.pe/bitel/NovaSRT/chunks.m3u8
 https://live-evg18.tv360.bitel.com.pe/bitel/CreoKidsSRT/chunks.m3u8
 #EXTINF:-1,tvg logo=""group-title="NACIONALES",Latino | CREOLATINOSRT
 https://live-evg5.tv360.bitel.com.pe/bitel/CreoLatinoSRT/chunks.m3u8?uid=1939903
+#EXTINF:-1,tvg logo="https://i.imgur.com/VCUZKiw.png"group-title="NACIONALES",Latino | Activa TV 
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+#EXTINF:-1,tvg logo="https://i.imgur.com/2UROzSc.png"group-title="NACIONALES",Latino | Zylo Cine Western
+https://amg00711-zylo-amg00711c9-rakuten-es-5783.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewesternes-rakutenes/playlist.m3u8
+#EXTINF:-1,tvg logo="https://golstadium.com/_next/image?url=%2Fimg%2Fhome%2Fchannels%2Fthumb-gol-classics.jpg&w=1920&q=75"group-title="NACIONALES",Latino | GOL CLASSICS
+https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8
+#EXTINF:-1,tvg logo="https://i.imgur.com/hEnpvKj.png"group-title="NACIONALES",Latino | Huelva TV
+https://5d8d85cf2c308.streamlock.net:1936/huelvatv/htvdirecto/playlist.m3u8
+#EXTINF:-1,tvg logo="https://i.imgur.com/tQh8C3s.png"group-title="NACIONALES",Latino | Canal 4 Catalunya
+https://limited35.todostreaming.es/live/mitjans-livestream.m3u8
 #EXTINF:-1,tvg logo=""group-title="NACIONALES",Latino | HIT Mexicanos
 https://d3s7x6kmqcnb6b.cloudfront.net/hls/573BXJA/3F13C2D5DEBB/m.m3u8
 #EXTINF:-1,tvg logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="NACIONALES",Latino | Las estrellas 
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_3.m3u8
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/A%26E_HD.png/800px-A%26E_HD.png",Latino | A&E
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/20
-#EXTINF:-1,tvg-logo="https://caribtv.com/wp-content/uploads/2021/06/large_A3S.png.e881196bdffb09e902c09674c67498ea.png",Latino | A3S
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/565
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/512px-Atreseries_2020_logo.svg.png",Latino | A3S
+http://38.183.182.166:8000/play/a104/index.m3u8
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Adn40_2022.png",Latino | ADN40
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?PlaylistM3UCL
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/AdrenalinaSportsNetwork.png",Latino | Adrenalina Sports Network
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1301
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1280px-AMC_logo_2019.svg.png",Latino | AMC
@@ -180,7 +190,7 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/93
 #EXTINF:-1,tvg logo="Latino | Fox Sports 3
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/100
 #EXTINF:-1,tvg logo="Latino | Fox Sports Premium
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/992
+https://live20.bozztv.com/akamaissh101/ssh101/foxsports/playlist.m3u8
 #EXTINF:-1 xui-id="234" tvg-id="FXCHLH" tvg-name="Latino | FX HD" tvg-logo="http://192.168.80.50:80/images/ayfdHaSGfQQ7HLxmvsjLePGHrSUiH7OIsUHw-XNxKkPMLyxcnnFwTwdTqoRm2bln1gn5E60rg9UoEN3t6viQrQ.png" group-title="SERIES Y PELICULAS",FX HD
 http://tv.teleclub.xyz/club/server_2/entretenimiento/fx/index.m3u8
 #EXTINF:-1,tvg logo="Latino | Glitz
@@ -190,7 +200,7 @@ http://tv.teleclub.xyz/club/server_1/deportes/golperu/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/gltv.png?raw=true" group-title="Deportes",Latino | Gol TV
 http://tv.teleclub.xyz/club/server_1/deportes/goltv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento",Latino | Golden
-http://tv.teleclub.xyz/club/server_2/entretenimiento/golden/index.m3u8
+https://rpn.bozztv.com/gusa/gusa-goldentv/index.m3u8
 #EXTINF:-1,tvg logo="Latino | Golden Edge
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/84
 #EXTINF:-1,tvg logo="Latino | Bethel TV
