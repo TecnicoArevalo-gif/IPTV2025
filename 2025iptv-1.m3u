@@ -13,8 +13,8 @@ https://live-evg18.tv360.bitel.com.pe/bitel/CreoKidsSRT/chunks.m3u8
 https://live-evg5.tv360.bitel.com.pe/bitel/CreoLatinoSRT/chunks.m3u8?uid=1939903
 #EXTINF:-1,tvg logo="https://i.imgur.com/VCUZKiw.png"group-title="NACIONALES",Latino | Activa TV 
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
-#EXTINF:-1,tvg logo="https://i.imgur.com/2UROzSc.png"group-title="NACIONALES",Latino | Zylo Cine Western
-https://amg00711-zylo-amg00711c9-rakuten-es-5783.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewesternes-rakutenes/playlist.m3u8
+#EXTINF:-1,tvg logo=""group-title="NACIONALES",Latino | IPe Perú
+https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e677.m3u8
 #EXTINF:-1,tvg logo="https://golstadium.com/_next/image?url=%2Fimg%2Fhome%2Fchannels%2Fthumb-gol-classics.jpg&w=1920&q=75"group-title="NACIONALES",Latino | GOL CLASSICS
 https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8
 #EXTINF:-1,tvg logo="https://i.imgur.com/hEnpvKj.png"group-title="NACIONALES",Latino | Huelva TV
