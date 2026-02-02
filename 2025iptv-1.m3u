@@ -23,6 +23,14 @@ https://5d8d85cf2c308.streamlock.net:1936/huelvatv/htvdirecto/playlist.m3u8
 https://limited35.todostreaming.es/live/mitjans-livestream.m3u8
 #EXTINF:-1,tvg logo=""group-title="NACIONALES",Latino | HIT Mexicanos
 https://d3s7x6kmqcnb6b.cloudfront.net/hls/573BXJA/3F13C2D5DEBB/m.m3u8
+#EXTINF:-1,tvg logo=""group-title="NACIONALES",Latino | Canal 8 tv
+https://movil.ejeserver.com/live/canal8tv.m3u8
+#EXTINF:-1,tvg logo=""group-title="NACIONALES",Latino | tele Pacifico
+https://live-edge-par-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live-telepacifico/index.m3u8
+#EXTINF:-1,tvg logo=""group-title="NACIONALES",Latino | ITV Deportes
+https://thm-it-roku.otteravision.com/thm/it/it_480p.m3u8
+#EXTINF:-1,tvg logo=""group-title="NACIONALES",Latino | Crimines reales
+https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/480p/index.m3u8
 #EXTINF:-1,tvg logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="NACIONALES",Latino | Las estrellas 
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_3.m3u8
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/A%26E_HD.png/800px-A%26E_HD.png",Latino | A&E
