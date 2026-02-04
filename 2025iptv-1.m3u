@@ -11,6 +11,28 @@ https://live-evg7.tv360.bitel.com.pe/bitel/NovaSRT/chunks.m3u8
 https://live-evg18.tv360.bitel.com.pe/bitel/CreoKidsSRT/chunks.m3u8
 #EXTINF:-1,tvg logo=""group-title="NACIONALES",Latino | CREOLATINOSRT
 https://live-evg5.tv360.bitel.com.pe/bitel/CreoLatinoSRT/chunks.m3u8?uid=1939903
+#EXTINF:-1,tvg logo=""group-title="NACIONALES",Latino | Creo tv
+https://live-evg5.tv360.bitel.com.pe/bitel/creosrt/chunks.m3u8?uid=9167817
+#EXTINF:-1,tvg logo=""group-title="NACIONALES",Latino | Circuito digital
+https://live-evg11.tv360.bitel.com.pe/bitel/circuitodigital/chunks.m3u8
+#EXTINF:-1,tvg logo=""group-title="NACIONALES",Latino | TELE LIMA
+https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/chunks.m3u8
+#EXTINF:-1,tvg logo=""group-title="NACIONALES",Latino | fuego tv
+https://live-evg5.tv360.bitel.com.pe/bitel/fuegotvSRT/chunks.m3u8?uid=3423308
+#EXTINF:-1,tvg logo=""group-title="NACIONALES",Latino | mega tv
+https://live-evg5.tv360.bitel.com.pe/bitel/megatv/chunks.m3u8?uid=3423308
+#EXTINF:-1,tvg logo=""group-title="NACIONALES",Latino | Amazonica tv
+https://live-evg25.tv360.bitel.com.pe/bitel/amazonicatv/chunks.m3u8
+#EXTINF:-1,tvg logo=""group-title="NACIONALES",Latino | Voz cristiana tv
+https://live-evg18.tv360.bitel.com.pe/bitel/vozcristianatvSRT/chunks.m3u8
+#EXTINF:-1,tvg logo=""group-title="NACIONALES",Latino | Gamarra tv
+https://live-evg7.tv360.bitel.com.pe/bitel/gamarratv/chunks.m3u8
+#EXTINF:-1,tvg logo=""group-title="NACIONALES",Latino | la cajita musical
+https://live-evg7.tv360.bitel.com.pe/bitel/lacajitamusical/chunks.m3u8
+#EXTINF:-1,tvg logo=""group-title="NACIONALES",Latino | PIURA TV
+https://live-evg7.tv360.bitel.com.pe/bitel/piuratvSRT/chunks.m3u8
+#EXTINF:-1,tvg logo=""group-title="NACIONALES",Latino | PEQUES TV
+https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/chunks.m3u8
 #EXTINF:-1,tvg logo="https://i.imgur.com/VCUZKiw.png"group-title="NACIONALES",Latino | Activa TV 
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
 #EXTINF:-1,tvg logo=""group-title="NACIONALES",Latino | IPe Perú
