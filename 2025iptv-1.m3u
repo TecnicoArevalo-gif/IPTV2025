@@ -33,10 +33,18 @@ https://live-evg7.tv360.bitel.com.pe/bitel/lacajitamusical/chunks.m3u8
 https://live-evg7.tv360.bitel.com.pe/bitel/piuratvSRT/chunks.m3u8
 #EXTINF:-1,tvg logo=""group-title="NACIONALES",Latino | PEQUES TV
 https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/chunks.m3u8
+#EXTINF:-1,tvg logo=""group-title="NACIONALES",Latino | TeleSUR Venezuela
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1,tvg logo="https://i.imgur.com/VCUZKiw.png"group-title="NACIONALES",Latino | Activa TV 
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
 #EXTINF:-1,tvg logo=""group-title="NACIONALES",Latino | IPe Perú
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e677.m3u8
+#EXTINF:-1,tvg logo="https://graph.facebook.com/wiprtv/picture?width=200&height=200"group-title="NACIONALES",Latino | WIPR Puerto Rico
+https://streamwipr.pr/hls/stream/index.m3u8
+#EXTINF:-1,tvg logo="https://yt3.googleusercontent.com/-DMt5SrP3ObIrid5EHGZLUebeQLvRZeA64LWW3DaWd75gtK_JHjCe22Mn4EuxdlFa_EzqReCVg=s200"group-title="NACIONALES",Latino | ZAZ TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=16110&live=1&avod=0&hls_marker=1&pod_duration=120&ssai_enabled=1&content_network=streamingconnect&position=preroll&app_bundle=com.streamingconnect.viva&app_domain=mirametv.live&app_category=linear_tv&content_cat=IAB9-11,IAB1-7,IAB1&content_channel=zaztv&content_genre=tv_broadcaster&content_rating=TV-G&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&ifa_type=[IFA_TYPE]&content_id=mirametv_live&min_ad_duration=6&max_ad_duration=120
+#EXTINF:-1,tvg logo="https://graph.facebook.com/arirangtv/picture?width=200&height=200"group-title="NACIONALES",Latino | Arirang TV Corea del Sur
+https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/playlist.m3u8
 #EXTINF:-1,tvg logo="https://golstadium.com/_next/image?url=%2Fimg%2Fhome%2Fchannels%2Fthumb-gol-classics.jpg&w=1920&q=75"group-title="NACIONALES",Latino | GOL CLASSICS
 https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8
 #EXTINF:-1,tvg logo="https://i.imgur.com/hEnpvKj.png"group-title="NACIONALES",Latino | Huelva TV
@@ -426,8 +434,8 @@ https://live-evg18.tv360.bitel.com.pe/bitel/atvsur_abr/bitel/atvsur_720p/chunks.
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u4sw0pf.png" group-title="Infantil",Latino | Bitme
  http://tv.teleclub.xyz/envivo/Infantil/BITME/index.m3u8
-#EXTINF:-1 tvg-id="Bolivision.bo" tvg-logo="https://i.imgur.com/U98Z5zn.png" group-title="General",Bolivision
-https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="GloBolivision.bo" tvg-logo="https://graph.facebook.com/globovision/picture?width=200&height=200" group-title="General",GloBolivision
+https://59d39900ebfb8.streamlock.net/globo-720p/globo-720p/playlist.m3u8
 #EXTINF:-1 tvg-id="CableSurTV.co" tvg-logo="https://i.imgur.com/Rvuyu7R.jpg" group-title="General",Cable Sur TV
 https://tvlatina.live:1936/8012/8012/playlist.m3u8
 #EXTINF:-1 tvg-id="CaliTV.co" tvg-logo="https://i.imgur.com/2312Luq.png" group-title="",CaliTV
