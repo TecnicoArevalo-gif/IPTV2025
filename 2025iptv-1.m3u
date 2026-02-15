@@ -734,7 +734,6 @@ https://hls.vscdns.com/manifest.m3u8?key=7ee8894373af206a5a81c455856e84c4&provid
 #EXTINF:-1 group-title="PELICULAS LATINO",[COLOR red]*---PELICULAS LATINO---* [/COLOR]
 http://streamex.mx
  
-
 #EXTINF:-1,group-title="PELICULAS LATINO" type="película" tvg-logo="https://verpelis.gratis/wp-content/uploads/2024/03/aQnbNiadeGzGSjWLaXyeNxpAUIx-200x300.jpg",intensamente 2 
 https://dl.dropboxusercontent.com/scl/fi/8yz34wh1djf2g606ha8j1/Intensa-Mente-2-Parte-2-1.mp4?rlkey=3gml16oblwg9n21h1eovg76dn&st=3ynw09uz&dl=0
 #EXTINF:-1,group-title="PELICULAS LATINO" type="película" tvg-logo="https://verpelis.gratis/wp-content/uploads/2024/02/icdNeUyYjp85ttsPjnT2krD9AfR-200x300.jpg",Godzilla y Kong: El nuevo imperio
@@ -804,6 +803,8 @@ https://dl.dropboxusercontent.com/scl/fi/o4bapybnrlesuja0pujvn/P-nico-na-Florest
 https://dl.dropboxusercontent.com/scl/fi/m59bsknl8f49jocwko0zt/Camino-sangriento-5_-Linaje-Can-bal-Parte-5-1.mp4?rlkey=umbwtuetoryg0aqjekzbhr8wq&st=51xk1xzt&dl=0
 #EXTINF:-1 group-title="PELICULAS TERROR LATINO " type="PELICULAS TERROR LATINO" tvg-logo"https://image.tmdb.org/t/p/original/f5dlMYm1dNT3UN31sZ01cz9gFuP.png",camino sangriento 6
 https://dl.dropboxusercontent.com/scl/fi/7u32jmsxohdm3mhike6d6/Camino-sangriento-6-Parte-6-1.mp4?rlkey=kfkylluyy9as59del0ufgxxht&st=lsa7gwgf&dl=0
+#EXTINF:-1 group-title="PELICULAS TERROR LATINO " type="PELICULAS TERROR LATINO" tvg-logo"",Los extraños capitulo 3
+https://dl.dropboxusercontent.com/scl/fi/vol1h760y8z4m0rzidyzz/Los-Extra-os-Cap-tulo-3-Parte-3-1.mp4?rlkey=by8w2qws0f356z48sj7gylm23&st=0ghpo16c&dl=0
 #EXTINF:-1 group-title="PELICULAS TERROR LATINO " type="PELICULAS TERROR LATINO" tvg-logo"",jeepers creepers
 https://dl.dropboxusercontent.com/scl/fi/ww7kt2vz0u2uabodayeot/El-demonio-Parte-1-1.mp4?rlkey=s6js8kdzz23bvryfle38s114t&st=4dbjpy1o&dl=0
 #EXTINF:-1 group-title="PELICULAS TERROR LATINO " type="PELICULAS TERROR LATINO" tvg-logo"",jeepers creepers 2
@@ -885,6 +886,12 @@ https://dl.dropboxusercontent.com/scl/fi/2vo5y39b6jnez0nikidp9/El-Chavo-del-Ocho
 https://dl.dropboxusercontent.com/scl/fi/i90xijubn6125ey0uwuzz/El-Chavo-del-Ocho-Temporada-4-Temporada-4-1.mp4?rlkey=mpwjcjnjsjdpoed8jtu6qbp2o&st=yao8t5wd&dl=0
 #EXTINF:-1 group-title="El chavo del 8" type="El chavo del 8" tvg-logo"https://i.pinimg.com/originals/77/d4/78/77d47823126562484a88fc51e1adb760.jpg", El chavo del 8
 https://dl.dropboxusercontent.com/scl/fi/0kw6rwvq76cxxmvuww8mx/El-Chavo-del-Ocho-Temporada-4-Temporada-4-2.mp4?rlkey=rsodovwcincr4i5ulf9z33kpd&st=lbl4rvz0&dl=0
+#EXTINF:-1 group-title="El chavo del 8" type="El chavo del 8" tvg-logo"https://i.pinimg.com/originals/77/d4/78/77d47823126562484a88fc51e1adb760.jpg", El chavo del 8
+https://dl.dropboxusercontent.com/scl/fi/bjwjr0kquuxa5mmj67fyn/El-Chavo-del-Ocho-Temporada-4-Temporada-4-4.mp4?rlkey=owb8mkhm56e1wsikpmhfejeze&st=pnmlrk6q&dl=0
+#EXTINF:-1 group-title="El chavo del 8" type="El chavo del 8" tvg-logo"https://i.pinimg.com/originals/77/d4/78/77d47823126562484a88fc51e1adb760.jpg", El chavo del 8
+https://dl.dropboxusercontent.com/scl/fi/wo1uftx75gh22ru2jw5hn/El-Chavo-del-Ocho-Temporada-4-Temporada-4-5.mp4?rlkey=jtuojtbpd0c5q7yehokg918qe&st=p4h600ku&dl=0
+#EXTINF:-1 group-title="El chavo del 8" type="El chavo del 8" tvg-logo"https://i.pinimg.com/originals/77/d4/78/77d47823126562484a88fc51e1adb760.jpg", El chavo del 8
+https://dl.dropboxusercontent.com/scl/fi/b72quh9jxo34anvo0mld9/El-Chavo-del-Ocho-Temporada-4-Temporada-4-6.mp4?rlkey=smmcl8bz9wswu5wj5hrko95qy&st=uzj0o2nu&dl=0
 
 #EXTINF:-1 group-title="Mazinger edicion Z Impacto",[COLOR red]*---Mazinger edicion Z Impacto---* [/COLOR]
 http://streamex.mx
