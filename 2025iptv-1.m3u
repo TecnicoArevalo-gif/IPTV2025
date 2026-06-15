@@ -2,7 +2,7 @@
 #EXTM3U
 
 #EXTINF:-1 xui-id="217" tvg-id="" tvg-name="Latino |America TV HD" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647022587/1ba320c1d650_480_270.png" group-title="NACIONALES",America TV HD
-https://live-evg20.tv360.bitel.com.pe/5-s_huUeF-Ea6DBgLhHrgA/1774034223/bitel/America-udp/bitel/America-udp_360p/chunks.m3u8
+https://es3-p1-netcdn.bitel.com.pe/netcdn-live-1/manifest/america/playlist_clean_source_480p.m3u8?wmkid=0&uid=3423308&timestamp=1781575230&token=c5aaa45b03e9c82ab08e155e2737dd58
 #EXTINF:-1,tvg logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_Top_Latino.png"group-title="NACIONALES",Latino | Top Latino 
 https://live-evg11.tv360.bitel.com.pe/bitel/toplatino/chunks.m3u8
 #EXTINF:-1,tvg logo="" group-title="NACIONALES",Latino | Nova tv pura cumbia
